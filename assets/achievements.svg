@@ -1,0 +1,33 @@
+<svg viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Achievements">
+  <defs>
+    <linearGradient id="acard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a20"/><stop offset="1" stop-color="#08060f"/></linearGradient>
+    <filter id="ag" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="13"/></filter>
+  </defs>
+  <circle cx="302" cy="30" r="38" fill="#22d3ee" opacity="0.16" filter="url(#ag)"/>
+  <rect x="22" y="8" width="308" height="134" rx="14" fill="url(#acard)" stroke="#22d3ee" stroke-opacity="0.4"/>
+  <rect x="22" y="8" width="4" height="134" rx="2" fill="#22d3ee"/>
+  <circle cx="56" cy="44" r="16" fill="#22d3ee" opacity="0.16"/>
+  <path d="M56 36 l3 6 6 .8 -4.5 4.2 1 6 -5.5-3 -5.5 3 1-6 -4.5-4.2 6-.8z" fill="#22d3ee"/>
+  <text x="84" y="40" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="800" fill="#ffffff">Beinex Excelencia Award</text>
+  <text x="84" y="60" font-family="'Fira Code',monospace" font-size="12" fill="#22d3ee">2024</text>
+  <line x1="46" y1="82" x2="306" y2="82" stroke="#22d3ee" stroke-opacity="0.18"/>
+  <text x="46" y="106" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#e2e8f0">Outstanding performance &amp; contribution</text>
+  <circle cx="630" cy="30" r="38" fill="#a855f7" opacity="0.16" filter="url(#ag)"/>
+  <rect x="350" y="8" width="308" height="134" rx="14" fill="url(#acard)" stroke="#a855f7" stroke-opacity="0.4"/>
+  <rect x="350" y="8" width="4" height="134" rx="2" fill="#a855f7"/>
+  <circle cx="384" cy="44" r="16" fill="#a855f7" opacity="0.16"/>
+  <path d="M384 36 l3 6 6 .8 -4.5 4.2 1 6 -5.5-3 -5.5 3 1-6 -4.5-4.2 6-.8z" fill="#a855f7"/>
+  <text x="412" y="40" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="800" fill="#ffffff">Star Performer</text>
+  <text x="412" y="60" font-family="'Fira Code',monospace" font-size="12" fill="#a855f7">2022</text>
+  <line x1="374" y1="82" x2="634" y2="82" stroke="#a855f7" stroke-opacity="0.18"/>
+  <text x="374" y="106" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#e2e8f0">Recognition during internship</text>
+  <circle cx="958" cy="30" r="38" fill="#2dd4bf" opacity="0.16" filter="url(#ag)"/>
+  <rect x="678" y="8" width="308" height="134" rx="14" fill="url(#acard)" stroke="#2dd4bf" stroke-opacity="0.4"/>
+  <rect x="678" y="8" width="4" height="134" rx="2" fill="#2dd4bf"/>
+  <circle cx="712" cy="44" r="16" fill="#2dd4bf" opacity="0.16"/>
+  <path d="M706 44 l4 4 8-9" stroke="#2dd4bf" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="740" y="40" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="800" fill="#ffffff">27 Certifications</text>
+  <text x="740" y="60" font-family="'Fira Code',monospace" font-size="12" fill="#2dd4bf">Verified</text>
+  <line x1="702" y1="82" x2="962" y2="82" stroke="#2dd4bf" stroke-opacity="0.18"/>
+  <text x="702" y="106" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#e2e8f0">Anthropic · Meta · Google &amp; AWS</text>
+</svg>
