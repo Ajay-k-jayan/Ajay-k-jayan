@@ -1,27 +1,27 @@
 <svg viewBox="0 0 1000 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Featured Projects">
   <defs>
-    <linearGradient id="pcard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161616"/><stop offset="1" stop-color="#08060f"/></linearGradient>
+    <linearGradient id="pcard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a20"/><stop offset="1" stop-color="#08060f"/></linearGradient>
     <filter id="pg" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
   </defs>
-  <circle cx="300" cy="34" r="40" fill="#ffffff" opacity="0.18" filter="url(#pg)"/>
-  <rect x="22" y="6" width="308" height="198" rx="14" fill="url(#pcard)" stroke="#ffffff" stroke-opacity="0.4"/>
-  <rect x="22" y="6" width="308" height="4" rx="2" fill="#ffffff"/>
-  <circle cx="46" cy="42" r="5" fill="#ffffff"/>
+  <circle cx="300" cy="34" r="40" fill="#22d3ee" opacity="0.18" filter="url(#pg)"/>
+  <rect x="22" y="6" width="308" height="198" rx="14" fill="url(#pcard)" stroke="#22d3ee" stroke-opacity="0.4"/>
+  <rect x="22" y="6" width="308" height="4" rx="2" fill="#22d3ee"/>
+  <circle cx="46" cy="42" r="5" fill="#22d3ee"/>
   <text x="62" y="47" font-family="'Segoe UI',sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">Aurex — GRC Platform</text>
-  <text x="46" y="74" font-family="'Fira Code',monospace" font-size="11.5" fill="#ffffff">Angular · RxJS · TypeScript</text>
-  <line x1="46" y1="88" x2="306" y2="88" stroke="#ffffff" stroke-opacity="0.2"/>  <text x="46" y="112" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">Cloud governance, risk &amp;</text>  <text x="46" y="134" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">compliance platform.</text>  <text x="46" y="156" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">Real-time risk, audit</text>  <text x="46" y="178" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">automation &amp; analytics.</text>
-  <circle cx="628" cy="34" r="40" fill="#bdbdbd" opacity="0.18" filter="url(#pg)"/>
-  <rect x="350" y="6" width="308" height="198" rx="14" fill="url(#pcard)" stroke="#bdbdbd" stroke-opacity="0.4"/>
-  <rect x="350" y="6" width="308" height="4" rx="2" fill="#bdbdbd"/>
-  <circle cx="374" cy="42" r="5" fill="#bdbdbd"/>
+  <text x="46" y="74" font-family="'Fira Code',monospace" font-size="11.5" fill="#22d3ee">Angular · RxJS · TypeScript</text>
+  <line x1="46" y1="88" x2="306" y2="88" stroke="#22d3ee" stroke-opacity="0.2"/>  <text x="46" y="112" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">Cloud governance, risk &amp;</text>  <text x="46" y="134" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">compliance platform.</text>  <text x="46" y="156" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">Real-time risk, audit</text>  <text x="46" y="178" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">automation &amp; analytics.</text>
+  <circle cx="628" cy="34" r="40" fill="#a855f7" opacity="0.18" filter="url(#pg)"/>
+  <rect x="350" y="6" width="308" height="198" rx="14" fill="url(#pcard)" stroke="#a855f7" stroke-opacity="0.4"/>
+  <rect x="350" y="6" width="308" height="4" rx="2" fill="#a855f7"/>
+  <circle cx="374" cy="42" r="5" fill="#a855f7"/>
   <text x="390" y="47" font-family="'Segoe UI',sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">InspektAI — Inspection</text>
-  <text x="374" y="74" font-family="'Fira Code',monospace" font-size="11.5" fill="#bdbdbd">Next.js · REST · Razorpay</text>
-  <line x1="374" y1="88" x2="634" y2="88" stroke="#bdbdbd" stroke-opacity="0.2"/>  <text x="374" y="112" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">AI car-inspection running</text>  <text x="374" y="134" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">300+ automated checks.</text>  <text x="374" y="156" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">Geolocation + Razorpay</text>  <text x="374" y="178" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">in an Agile workflow.</text>
-  <circle cx="956" cy="34" r="40" fill="#9a9a9a" opacity="0.18" filter="url(#pg)"/>
-  <rect x="678" y="6" width="308" height="198" rx="14" fill="url(#pcard)" stroke="#9a9a9a" stroke-opacity="0.4"/>
-  <rect x="678" y="6" width="308" height="4" rx="2" fill="#9a9a9a"/>
-  <circle cx="702" cy="42" r="5" fill="#9a9a9a"/>
+  <text x="374" y="74" font-family="'Fira Code',monospace" font-size="11.5" fill="#a855f7">Next.js · REST · Razorpay</text>
+  <line x1="374" y1="88" x2="634" y2="88" stroke="#a855f7" stroke-opacity="0.2"/>  <text x="374" y="112" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">AI car-inspection running</text>  <text x="374" y="134" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">300+ automated checks.</text>  <text x="374" y="156" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">Geolocation + Razorpay</text>  <text x="374" y="178" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">in an Agile workflow.</text>
+  <circle cx="956" cy="34" r="40" fill="#2dd4bf" opacity="0.18" filter="url(#pg)"/>
+  <rect x="678" y="6" width="308" height="198" rx="14" fill="url(#pcard)" stroke="#2dd4bf" stroke-opacity="0.4"/>
+  <rect x="678" y="6" width="308" height="4" rx="2" fill="#2dd4bf"/>
+  <circle cx="702" cy="42" r="5" fill="#2dd4bf"/>
   <text x="718" y="47" font-family="'Segoe UI',sans-serif" font-size="16.5" font-weight="800" fill="#ffffff">Portfolio v2</text>
-  <text x="702" y="74" font-family="'Fira Code',monospace" font-size="11.5" fill="#9a9a9a">React · TypeScript · Three.js</text>
-  <line x1="702" y1="88" x2="962" y2="88" stroke="#9a9a9a" stroke-opacity="0.2"/>  <text x="702" y="112" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">Interactive 3D portfolio</text>  <text x="702" y="134" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">with Three.js &amp; GSAP.</text>  <text x="702" y="156" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">Smooth motion, optimized</text>  <text x="702" y="178" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e8e8e8">performance, responsive.</text>
+  <text x="702" y="74" font-family="'Fira Code',monospace" font-size="11.5" fill="#2dd4bf">React · TypeScript · Three.js</text>
+  <line x1="702" y1="88" x2="962" y2="88" stroke="#2dd4bf" stroke-opacity="0.2"/>  <text x="702" y="112" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">Interactive 3D portfolio</text>  <text x="702" y="134" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">with Three.js &amp; GSAP.</text>  <text x="702" y="156" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">Smooth motion, optimized</text>  <text x="702" y="178" font-family="'Segoe UI',sans-serif" font-size="13" fill="#e2e8f0">performance, responsive.</text>
 </svg>
