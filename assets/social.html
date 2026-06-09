@@ -6,88 +6,133 @@
 <title>Ajay K J — Connect</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
-body{background:#07091a;display:flex;align-items:center;justify-content:center;min-height:100vh;font-family:'Segoe UI',sans-serif}
-.wrap{position:relative;padding:40px 28px;display:flex;align-items:center;justify-content:center}
-canvas{position:fixed;inset:0;width:100%;height:100%;z-index:0}
-.icons{display:flex;gap:20px;flex-wrap:wrap;justify-content:center;position:relative;z-index:2}
-.icon-wrap{position:relative;display:flex;flex-direction:column;align-items:center}
-.icon-tile{width:72px;height:72px;border-radius:20px;display:flex;align-items:center;justify-content:center;cursor:pointer;text-decoration:none;transition:transform .2s,box-shadow .2s}
-.icon-tile svg{width:34px;height:34px}
-.tooltip{position:absolute;bottom:calc(100% + 10px);left:50%;transform:translateX(-50%);background:rgba(10,8,30,.97);border:1px solid rgba(255,255,255,.13);border-radius:8px;padding:5px 14px;font-family:'Fira Code',monospace;font-size:12px;color:#e2e8f0;white-space:nowrap;pointer-events:none;opacity:0;transition:opacity .18s;letter-spacing:.5px}
-.tooltip::after{content:'';position:absolute;top:100%;left:50%;transform:translateX(-50%);border:5px solid transparent;border-top-color:rgba(10,8,30,.97)}
-.icon-wrap:hover .tooltip{opacity:1}
-.icon-tile:hover{transform:translateY(-7px) scale(1.1)}
-.t-phone{background:rgba(16,60,40,.7);border:1.5px solid #22c55e}.t-phone:hover{box-shadow:0 0 20px rgba(34,197,94,.6),0 0 50px rgba(34,197,94,.18)}
-.t-mail{background:rgba(60,20,20,.7);border:1.5px solid #ef4444}.t-mail:hover{box-shadow:0 0 20px rgba(239,68,68,.6),0 0 50px rgba(239,68,68,.18)}
-.t-whatsapp{background:rgba(10,50,20,.7);border:1.5px solid #25d366}.t-whatsapp:hover{box-shadow:0 0 20px rgba(37,211,102,.6),0 0 50px rgba(37,211,102,.18)}
-.t-insta{background:rgba(60,15,40,.7);border:1.5px solid #e1306c}.t-insta:hover{box-shadow:0 0 20px rgba(225,48,108,.6),0 0 50px rgba(225,48,108,.18)}
-.t-github{background:rgba(30,20,60,.7);border:1.5px solid #a855f7}.t-github:hover{box-shadow:0 0 20px rgba(168,85,247,.6),0 0 50px rgba(168,85,247,.18)}
-.t-linkedin{background:rgba(8,28,55,.7);border:1.5px solid #0ea5e9}.t-linkedin:hover{box-shadow:0 0 20px rgba(14,165,233,.6),0 0 50px rgba(14,165,233,.18)}
-.t-twitter{background:rgba(5,20,35,.7);border:1.5px solid #38bdf8}.t-twitter:hover{box-shadow:0 0 20px rgba(56,189,248,.6),0 0 50px rgba(56,189,248,.18)}
-.t-portfolio{background:rgba(10,30,30,.7);border:1.5px solid #2dd4bf}.t-portfolio:hover{box-shadow:0 0 20px rgba(45,212,191,.6),0 0 50px rgba(45,212,191,.18)}
+body{background:#07091a;display:flex;align-items:center;justify-content:center;min-height:100vh}
+canvas{position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none}
+.bar{position:relative;z-index:2;display:flex;gap:10px;flex-wrap:wrap;justify-content:center;padding:28px 24px}
+.w{position:relative;display:inline-flex;flex-direction:column;align-items:center}
+.tile{
+  width:44px;height:44px;border-radius:12px;
+  display:flex;align-items:center;justify-content:center;
+  text-decoration:none;cursor:pointer;
+  transition:transform .18s ease,box-shadow .18s ease;
+}
+.tile svg{width:20px;height:20px;flex-shrink:0}
+.tile:hover{transform:translateY(-5px) scale(1.12)}
+.tip{
+  position:absolute;bottom:calc(100% + 8px);left:50%;
+  transform:translateX(-50%);
+  background:rgba(8,6,22,.97);
+  border:1px solid rgba(255,255,255,.12);
+  border-radius:7px;padding:4px 10px;
+  font-family:'Fira Code',monospace;font-size:11px;
+  color:#e2e8f0;white-space:nowrap;letter-spacing:.4px;
+  pointer-events:none;opacity:0;
+  transition:opacity .15s ease;
+}
+.tip::after{content:'';position:absolute;top:100%;left:50%;transform:translateX(-50%);border:4px solid transparent;border-top-color:rgba(8,6,22,.97)}
+.w:hover .tip{opacity:1}
+.p {background:rgba(10,42,26,.75);border:1.5px solid #22c55e}.p:hover{box-shadow:0 0 14px rgba(34,197,94,.6),0 4px 24px rgba(34,197,94,.15)}
+.m {background:rgba(46,14,14,.75);border:1.5px solid #ef4444}.m:hover{box-shadow:0 0 14px rgba(239,68,68,.6),0 4px 24px rgba(239,68,68,.15)}
+.wa{background:rgba(7,38,14,.75);border:1.5px solid #25d366}.wa:hover{box-shadow:0 0 14px rgba(37,211,102,.6),0 4px 24px rgba(37,211,102,.15)}
+.ig{background:rgba(46,10,30,.75);border:1.5px solid #e1306c}.ig:hover{box-shadow:0 0 14px rgba(225,48,108,.6),0 4px 24px rgba(225,48,108,.15)}
+.gh{background:rgba(22,14,46,.75);border:1.5px solid #a855f7}.gh:hover{box-shadow:0 0 14px rgba(168,85,247,.6),0 4px 24px rgba(168,85,247,.15)}
+.li{background:rgba(5,20,42,.75);border:1.5px solid #0ea5e9}.li:hover{box-shadow:0 0 14px rgba(14,165,233,.6),0 4px 24px rgba(14,165,233,.15)}
+.tw{background:rgba(4,14,26,.75);border:1.5px solid #38bdf8}.tw:hover{box-shadow:0 0 14px rgba(56,189,248,.6),0 4px 24px rgba(56,189,248,.15)}
+.pf{background:rgba(6,22,22,.75);border:1.5px solid #2dd4bf}.pf:hover{box-shadow:0 0 14px rgba(45,212,191,.6),0 4px 24px rgba(45,212,191,.15)}
+.rv{background:rgba(30,14,4,.75); border:1.5px solid #f97316}.rv:hover{box-shadow:0 0 14px rgba(249,115,22,.6),0 4px 24px rgba(249,115,22,.15)}
 </style>
 </head>
 <body>
 <canvas id="c"></canvas>
-<div class="wrap">
-<div class="icons">
-  <div class="icon-wrap">
-    <a href="tel:+918289917044" class="icon-tile t-phone">
+<div class="bar">
+
+  <div class="w">
+    <a href="tel:+918289917044" class="tile p">
       <svg viewBox="0 0 24 24" fill="none" stroke="#22c55e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.61 3.42 2 2 0 0 1 3.6 1h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L7.91 8.6a16 16 0 0 0 5.49 5.49l.96-.96a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 21 16z"/></svg>
     </a>
-    <div class="tooltip">+91 82899 17044</div>
+    <div class="tip">+91 82899 17044</div>
   </div>
-  <div class="icon-wrap">
-    <a href="mailto:ajaykj2000@gmail.com" class="icon-tile t-mail">
+
+  <div class="w">
+    <a href="mailto:ajaykj2000@gmail.com" class="tile m">
       <svg viewBox="0 0 24 24" fill="none" stroke="#ef4444" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
     </a>
-    <div class="tooltip">ajaykj2000@gmail.com</div>
+    <div class="tip">ajaykj2000@gmail.com</div>
   </div>
-  <div class="icon-wrap">
-    <a href="https://wa.me/918289917044" class="icon-tile t-whatsapp">
+
+  <div class="w">
+    <a href="https://wa.me/918289917044" class="tile wa">
       <svg viewBox="0 0 24 24" fill="none" stroke="#25d366" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
     </a>
-    <div class="tooltip">WhatsApp</div>
+    <div class="tip">WhatsApp</div>
   </div>
-  <div class="icon-wrap">
-    <a href="https://www.instagram.com/aj_ay.kj/" class="icon-tile t-insta">
-      <svg viewBox="0 0 24 24" fill="none" stroke="#e1306c" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="5"/><circle cx="17.5" cy="6.5" r="1" fill="#e1306c"/></svg>
+
+  <div class="w">
+    <a href="https://www.instagram.com/aj_ay.kj/" class="tile ig">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#e1306c" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="5"/><circle cx="17.5" cy="6.5" r="1" fill="#e1306c" stroke="none"/></svg>
     </a>
-    <div class="tooltip">@aj_ay.kj</div>
+    <div class="tip">@aj_ay.kj</div>
   </div>
-  <div class="icon-wrap">
-    <a href="https://github.com/Ajay-k-jayan" class="icon-tile t-github">
+
+  <div class="w">
+    <a href="https://github.com/Ajay-k-jayan" class="tile gh">
       <svg viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.2c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65S8.93 17.38 9 18v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></svg>
     </a>
-    <div class="tooltip">Ajay-k-jayan</div>
+    <div class="tip">Ajay-k-jayan</div>
   </div>
-  <div class="icon-wrap">
-    <a href="https://www.linkedin.com/in/ajay-k-jayan/" class="icon-tile t-linkedin">
-      <svg viewBox="0 0 24 24" fill="none" stroke="#0ea5e9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
+
+  <div class="w">
+    <a href="https://www.linkedin.com/in/ajay-k-jayan/" class="tile li">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#0ea5e9" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/></svg>
     </a>
-    <div class="tooltip">ajay-k-jayan</div>
+    <div class="tip">ajay-k-jayan</div>
   </div>
-  <div class="icon-wrap">
-    <a href="https://twitter.com/ajaykj" class="icon-tile t-twitter">
+
+  <div class="w">
+    <a href="https://twitter.com/ajaykj" class="tile tw">
       <svg viewBox="0 0 24 24" fill="none" stroke="#38bdf8" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4l16 16M4 20 20 4"/></svg>
     </a>
-    <div class="tooltip">@ajaykj</div>
+    <div class="tip">@ajaykj</div>
   </div>
-  <div class="icon-wrap">
-    <a href="https://ajaykj.vercel.app/" class="icon-tile t-portfolio">
+
+  <div class="w">
+    <a href="https://ajaykj.vercel.app/" class="tile pf">
       <svg viewBox="0 0 24 24" fill="none" stroke="#2dd4bf" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>
     </a>
-    <div class="tooltip">ajaykj.vercel.app</div>
+    <div class="tip">ajaykj.vercel.app</div>
   </div>
-</div>
+
+  <div class="w">
+    <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf" class="tile rv">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#f97316" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14,2 14,8 20,8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10,9 9,9 8,9"/></svg>
+    </a>
+    <div class="tip">Resume</div>
+  </div>
+
 </div>
 <script>
-const c=document.getElementById('c'),x=c.getContext('2d');let W,H,pts=[];
+const c=document.getElementById('c'),x=c.getContext('2d');
+let W,H,pts=[];
 function resize(){W=c.width=window.innerWidth;H=c.height=window.innerHeight;}
-function init(){pts=Array.from({length:45},()=>({x:Math.random()*W,y:Math.random()*H,vx:(Math.random()-.5)*.5,vy:(Math.random()-.5)*.5}));}
-function draw(){x.clearRect(0,0,W,H);for(let p of pts){p.x+=p.vx;p.y+=p.vy;if(p.x<0||p.x>W)p.vx*=-1;if(p.y<0||p.y>H)p.vy*=-1;x.beginPath();x.arc(p.x,p.y,1.8,0,Math.PI*2);x.fillStyle='rgba(45,212,191,.55)';x.fill();}
-for(let i=0;i<pts.length;i++)for(let j=i+1;j<pts.length;j++){const dx=pts[i].x-pts[j].x,dy=pts[i].y-pts[j].y,d=Math.sqrt(dx*dx+dy*dy);if(d<120){x.beginPath();x.moveTo(pts[i].x,pts[i].y);x.lineTo(pts[j].x,pts[j].y);x.strokeStyle=`rgba(168,85,247,${.25*(1-d/120)})`;x.lineWidth=.8;x.stroke();}}requestAnimationFrame(draw);}
-resize();init();draw();window.addEventListener('resize',()=>{resize();init();});
+function init(){pts=Array.from({length:40},()=>({x:Math.random()*W,y:Math.random()*H,vx:(Math.random()-.5)*.45,vy:(Math.random()-.5)*.45}));}
+function draw(){
+  x.clearRect(0,0,W,H);
+  for(let p of pts){
+    p.x+=p.vx;p.y+=p.vy;
+    if(p.x<0||p.x>W)p.vx*=-1;
+    if(p.y<0||p.y>H)p.vy*=-1;
+    x.beginPath();x.arc(p.x,p.y,1.4,0,Math.PI*2);
+    x.fillStyle='rgba(45,212,191,.5)';x.fill();
+  }
+  for(let i=0;i<pts.length;i++)for(let j=i+1;j<pts.length;j++){
+    const dx=pts[i].x-pts[j].x,dy=pts[i].y-pts[j].y,d=Math.sqrt(dx*dx+dy*dy);
+    if(d<100){x.beginPath();x.moveTo(pts[i].x,pts[i].y);x.lineTo(pts[j].x,pts[j].y);
+    x.strokeStyle=`rgba(168,85,247,${.22*(1-d/100)})`;x.lineWidth=.7;x.stroke();}
+  }
+  requestAnimationFrame(draw);
+}
+resize();init();draw();
+window.addEventListener('resize',()=>{resize();init();});
 </script>
 </body>
 </html>
