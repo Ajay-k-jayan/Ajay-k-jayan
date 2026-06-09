@@ -1,32 +1,32 @@
-<!-- ====================== COSMIC HERO BANNER ====================== -->
+<!-- ====================== HERO BANNER (monochrome) ====================== -->
 <a href="https://ajaykj.vercel.app/">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/banner.svg" alt="Ajay K J — Senior Software Engineer" width="100%"/>
 </a>
 
-<!-- ====================== TYPING HEADER ====================== -->
+<!-- ====================== TYPING HEADER (theme-safe gray) ====================== -->
 <div align="center">
   <a href="https://ajaykj.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Beinex;Angular+%26+Frontend+Specialist;3%2B+Years+Building+Scalable+Web+Apps;Architecture+%C2%B7+Innovation+%C2%B7+Scale" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=B0B0B0&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Beinex;Angular+%26+Frontend+Specialist;3%2B+Years+Building+Scalable+Web+Apps;Architecture+%C2%B7+Innovation+%C2%B7+Scale" alt="Typing SVG"/>
   </a>
 </div>
 
-<!-- ====================== CONNECT / CONTACT BAR ====================== -->
+<!-- ====================== CONNECT BAR (monochrome) ====================== -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0618" alt="LinkedIn"/></a>
-  <a href="https://github.com/Ajay-k-jayan"><img src="https://img.shields.io/badge/GitHub-0a0618?style=for-the-badge&logo=github&logoColor=2dd4bf" alt="GitHub"/></a>
-  <a href="https://ajaykj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0618?style=for-the-badge&logo=vercel&logoColor=a855f7" alt="Portfolio"/></a>
-  <a href="mailto:ajaykj2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0618" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Ajay-k-jayan"><img src="https://img.shields.io/badge/GitHub-161616?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://ajaykj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:ajaykj2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-161616?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <br/>
-  <a href="https://wa.me/918289917044"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0618" alt="WhatsApp"/></a>
-  <a href="tel:+918289917044"><img src="https://img.shields.io/badge/+91%2082899%2017044-128C7E?style=for-the-badge&logo=googlevoice&logoColor=white&labelColor=0a0618" alt="Phone"/></a>
-  <a href="https://www.instagram.com/aj_ay.kj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0618" alt="Instagram"/></a>
-  <a href="https://twitter.com/ajaykj"><img src="https://img.shields.io/badge/X-0a0618?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf"><img src="https://img.shields.io/badge/Resume-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0a0618" alt="Resume"/></a>
+  <a href="https://wa.me/918289917044"><img src="https://img.shields.io/badge/WhatsApp-161616?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="tel:+918289917044"><img src="https://img.shields.io/badge/+91%2082899%2017044-161616?style=for-the-badge&logo=googlevoice&logoColor=white" alt="Phone"/></a>
+  <a href="https://www.instagram.com/aj_ay.kj/"><img src="https://img.shields.io/badge/Instagram-161616?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://twitter.com/ajaykj"><img src="https://img.shields.io/badge/X-161616?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf"><img src="https://img.shields.io/badge/Resume-161616?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
   <br/><br/>
-  <a href="https://github.com/Ajay-k-jayan"><img src="https://komarev.com/ghpvc/?username=Ajay-k-jayan&style=for-the-badge&color=2dd4bf&labelColor=0a0618&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+  <a href="https://github.com/Ajay-k-jayan"><img src="https://komarev.com/ghpvc/?username=Ajay-k-jayan&style=for-the-badge&color=161616&labelColor=0a0a0a&label=PROFILE+VIEWS" alt="Profile Views"/></a>
 </div>
 
-<!-- ====================== HIGHLIGHTS (glass tiles) ====================== -->
+<!-- ====================== HIGHLIGHTS ====================== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/highlights.svg" alt="Career highlights" width="100%"/>
 </div>
@@ -57,58 +57,58 @@
 <br/>
 
 **Languages & Runtime** ·
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0618?style=flat-square&logo=typescript&logoColor=22d3ee)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0618?style=flat-square&logo=javascript&logoColor=f7df1e)
-![Node.js](https://img.shields.io/badge/Node.js-0a0618?style=flat-square&logo=nodedotjs&logoColor=2dd4bf)
-![Python](https://img.shields.io/badge/Python-0a0618?style=flat-square&logo=python&logoColor=22d3ee)
-![PHP](https://img.shields.io/badge/PHP-0a0618?style=flat-square&logo=php&logoColor=a855f7)
-![HTML5](https://img.shields.io/badge/HTML5-0a0618?style=flat-square&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-0a0618?style=flat-square&logo=css3&logoColor=22d3ee)
-![Sass](https://img.shields.io/badge/SCSS-0a0618?style=flat-square&logo=sass&logoColor=cc6699)
+![TypeScript](https://img.shields.io/badge/TypeScript-161616?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-161616?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-161616?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161616?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-161616?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-161616?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-161616?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/SCSS-161616?style=flat-square&logo=sass&logoColor=white)
 
 **Frontend** ·
-![Angular](https://img.shields.io/badge/Angular%20v11--19-0a0618?style=flat-square&logo=angular&logoColor=dd0031)
-![React](https://img.shields.io/badge/React-0a0618?style=flat-square&logo=react&logoColor=61dafb)
-![Next.js](https://img.shields.io/badge/Next.js-0a0618?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0a0618?style=flat-square&logo=vite&logoColor=646cff)
-![Three.js](https://img.shields.io/badge/Three.js-0a0618?style=flat-square&logo=threedotjs&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-0a0618?style=flat-square&logo=reactivex&logoColor=b7178c)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0618?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
-![D3.js](https://img.shields.io/badge/D3.js-0a0618?style=flat-square&logo=d3dotjs&logoColor=f9a03c)
-![Storybook](https://img.shields.io/badge/Storybook-0a0618?style=flat-square&logo=storybook&logoColor=ff4785)
+![Angular](https://img.shields.io/badge/Angular%20v11--19-161616?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-161616?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-161616?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-161616?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-161616?style=flat-square&logo=threedotjs&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-161616?style=flat-square&logo=reactivex&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-161616?style=flat-square&logo=tailwindcss&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-161616?style=flat-square&logo=d3dotjs&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-161616?style=flat-square&logo=storybook&logoColor=white)
 
 **Core Concepts** ·
-![Micro Frontends](https://img.shields.io/badge/Micro%20Frontends-0d0820?style=flat-square)
-![Reactive Forms](https://img.shields.io/badge/Reactive%20Forms-0d0820?style=flat-square)
-![Lazy Loading](https://img.shields.io/badge/Lazy%20Loading-0d0820?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC-0d0820?style=flat-square)
-![BEM](https://img.shields.io/badge/BEM-0d0820?style=flat-square)
-![Atomic Design](https://img.shields.io/badge/Atomic%20Design-0d0820?style=flat-square)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-0d0820?style=flat-square)
+![Micro Frontends](https://img.shields.io/badge/Micro%20Frontends-222222?style=flat-square)
+![Reactive Forms](https://img.shields.io/badge/Reactive%20Forms-222222?style=flat-square)
+![Lazy Loading](https://img.shields.io/badge/Lazy%20Loading-222222?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC-222222?style=flat-square)
+![BEM](https://img.shields.io/badge/BEM-222222?style=flat-square)
+![Atomic Design](https://img.shields.io/badge/Atomic%20Design-222222?style=flat-square)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-222222?style=flat-square)
 
 **Backend & Data** ·
-![Django](https://img.shields.io/badge/Django-0a0618?style=flat-square&logo=django&logoColor=44b78b)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0618?style=flat-square&logo=fastapi&logoColor=009688)
-![REST](https://img.shields.io/badge/REST%20APIs-0a0618?style=flat-square&logo=fastapi&logoColor=2dd4bf)
-![WebSockets](https://img.shields.io/badge/WebSockets-0a0618?style=flat-square&logo=socketdotio&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-0a0618?style=flat-square&logo=graphql&logoColor=e10098)
-![MySQL](https://img.shields.io/badge/MySQL-0a0618?style=flat-square&logo=mysql&logoColor=4479a1)
-![SQLite](https://img.shields.io/badge/SQLite-0a0618?style=flat-square&logo=sqlite&logoColor=22d3ee)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-0a0618?style=flat-square&logo=cockroachlabs&logoColor=a855f7)
-![Apache Druid](https://img.shields.io/badge/Apache%20Druid-0a0618?style=flat-square&logo=apachedruid&logoColor=29f1fb)
+![Django](https://img.shields.io/badge/Django-161616?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-161616?style=flat-square&logo=fastapi&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-161616?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-161616?style=flat-square&logo=socketdotio&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-161616?style=flat-square&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-161616?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-161616?style=flat-square&logo=sqlite&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-161616?style=flat-square&logo=cockroachlabs&logoColor=white)
+![Apache Druid](https://img.shields.io/badge/Apache%20Druid-161616?style=flat-square&logo=apachedruid&logoColor=white)
 
 **Tools, DevOps & AI** ·
-![Git](https://img.shields.io/badge/Git-0a0618?style=flat-square&logo=git&logoColor=f05032)
-![Jenkins](https://img.shields.io/badge/Jenkins-0a0618?style=flat-square&logo=jenkins&logoColor=d24939)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0a0618?style=flat-square&logo=githubactions&logoColor=2088ff)
-![Jira](https://img.shields.io/badge/Jira-0a0618?style=flat-square&logo=jira&logoColor=0052cc)
-![Postman](https://img.shields.io/badge/Postman-0a0618?style=flat-square&logo=postman&logoColor=ff6c37)
-![Swagger](https://img.shields.io/badge/Swagger-0a0618?style=flat-square&logo=swagger&logoColor=85ea2d)
-![Vercel](https://img.shields.io/badge/Vercel-0a0618?style=flat-square&logo=vercel&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-0a0618?style=flat-square&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor%20AI-0a0618?style=flat-square&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-0a0618?style=flat-square&logo=anthropic&logoColor=d97757)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-0a0618?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-161616?style=flat-square&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-161616?style=flat-square&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-161616?style=flat-square&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-161616?style=flat-square&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-161616?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-161616?style=flat-square&logo=swagger&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-161616?style=flat-square&logo=vercel&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-161616?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor%20AI-161616?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-161616?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-161616?style=flat-square&logo=openai&logoColor=white)
 
 </details>
 
@@ -117,26 +117,26 @@
 
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-k-jayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b061c&title_color=2dd4bf&icon_color=a855f7&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-k-jayan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=ffffff&icon_color=cccccc&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Ajay-k-jayan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-k-jayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b061c&title_color=2dd4bf&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ajay-k-jayan">
-    <img src="https://streak-stats.demolab.com?user=Ajay-k-jayan&theme=tokyonight-duo&hide_border=true&background=0B061C&ring=2DD4BF&fire=A855F7&currStreakLabel=2DD4BF&sideLabels=22D3EE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0B061C&border_radius=10" alt="GitHub Streak"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-k-jayan&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-k-jayan&theme=tokyo-night&bg_color=0b061c&color=2dd4bf&line=a855f7&point=22d3ee&area=true&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/Ajay-k-jayan">
+    <img src="https://streak-stats.demolab.com?user=Ajay-k-jayan&theme=tokyonight-duo&hide_border=true&background=0A0A0A&ring=FFFFFF&fire=CCCCCC&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=8B949E&currStreakNum=FFFFFF&sideNums=C9D1D9&stroke=0A0A0A&border_radius=10" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-k-jayan&theme=github-dark&bg_color=0a0a0a&color=ffffff&line=cccccc&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ajay-k-jayan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ajay-k-jayan&theme=onedark&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies"/>
   </a>
 </div>
 
@@ -196,9 +196,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/projects.svg" alt="Featured Projects" width="100%"/>
   <br/><br/>
-  <a href="https://ajaykj.vercel.app/#projects"><img src="https://img.shields.io/badge/Aurex-View_↗-22d3ee?style=for-the-badge&labelColor=0a0618" alt="Aurex"/></a>
-  <a href="https://moto365.club"><img src="https://img.shields.io/badge/InspektAI-Visit_↗-a855f7?style=for-the-badge&labelColor=0a0618" alt="InspektAI"/></a>
-  <a href="https://github.com/Ajay-k-jayan/portfolio-v2"><img src="https://img.shields.io/badge/Portfolio_v2-Code_↗-2dd4bf?style=for-the-badge&labelColor=0a0618" alt="Portfolio v2"/></a>
+  <a href="https://ajaykj.vercel.app/#projects"><img src="https://img.shields.io/badge/Aurex-View_↗-161616?style=for-the-badge&labelColor=0a0a0a" alt="Aurex"/></a>
+  <a href="https://moto365.club"><img src="https://img.shields.io/badge/InspektAI-Visit_↗-161616?style=for-the-badge&labelColor=0a0a0a" alt="InspektAI"/></a>
+  <a href="https://github.com/Ajay-k-jayan/portfolio-v2"><img src="https://img.shields.io/badge/Portfolio_v2-Code_↗-161616?style=for-the-badge&labelColor=0a0a0a" alt="Portfolio v2"/></a>
 </div>
 
 <!-- ====================== ACHIEVEMENTS & CERTS ====================== -->
@@ -256,20 +256,20 @@
 </div>
 
 ```text
-🧱 Micro Frontend Architecture  →  Module Federation · Shell/Remote patterns
-🧩 Advanced System Design        →  Scalability · Caching · Event-driven design
-🤖 GenAI Workflows               →  MCP · Agent Skills · Subagents · Prompt Engineering
-⚡ Performance Engineering        →  Change detection · Rendering · Bundle splitting
+[*] Micro Frontend Architecture  ->  Module Federation · Shell/Remote patterns
+[*] Advanced System Design        ->  Scalability · Caching · Event-driven design
+[*] GenAI Workflows               ->  MCP · Agent Skills · Subagents · Prompt Engineering
+[*] Performance Engineering        ->  Change detection · Rendering · Bundle splitting
 ```
 
 <!-- ====================== FOOTER ====================== -->
 <div align="center">
 
-### 💬 Let's build something great together
+### Let's build something great together
 
-<a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0618" alt="Connect"/></a>
-<a href="mailto:ajaykj2000@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0618" alt="Say Hello"/></a>
-<a href="https://ajaykj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0618?style=for-the-badge&logo=vercel&logoColor=a855f7" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/Connect-161616?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/></a>
+<a href="mailto:ajaykj2000@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-161616?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/></a>
+<a href="https://ajaykj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-161616?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
