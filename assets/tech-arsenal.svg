@@ -1,72 +1,72 @@
 <svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech Arsenal">
   <defs>
     <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d0820"/><stop offset="1" stop-color="#0a0518"/>
+      <stop offset="0" stop-color="#161616"/><stop offset="1" stop-color="#0a0518"/>
     </linearGradient>
-    <linearGradient id="hl1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
-    <linearGradient id="hl2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#56d4c4"/><stop offset="1" stop-color="#0ea5a4"/></linearGradient>
-    <linearGradient id="hl3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c4b5fd"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
-    <linearGradient id="hl4" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0883e"/><stop offset="1" stop-color="#db6d28"/></linearGradient>
+    <linearGradient id="hl1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#b0b0b0"/></linearGradient>
+    <linearGradient id="hl2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e0e0e0"/><stop offset="1" stop-color="#a0a0a0"/></linearGradient>
+    <linearGradient id="hl3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b0b0b0"/><stop offset="1" stop-color="#8a8a8a"/></linearGradient>
+    <linearGradient id="hl4" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cfcfcf"/><stop offset="1" stop-color="#999999"/></linearGradient>
   </defs>
 
   <rect width="1000" height="300" rx="16" fill="url(#cardbg)" stroke="#21262d" stroke-width="1"/>
   <text x="40" y="44" font-family="'Fira Code',monospace" font-size="16" font-weight="700" fill="#8b949e">// tech arsenal</text>
-  <circle cx="195" cy="39" r="3.5" fill="#56d4c4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="195" cy="39" r="3.5" fill="#e0e0e0"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
   <line x1="40" y1="60" x2="960" y2="60" stroke="#21262d" stroke-width="1"/>
 
   <!-- Column 1: Frontend -->
   <g font-family="'Segoe UI',sans-serif">
     <rect x="40" y="84" width="44" height="4" rx="2" fill="url(#hl1)"/>
-    <text x="40" y="104" font-size="15" font-weight="700" fill="#22d3ee">Frontend</text>
+    <text x="40" y="104" font-size="15" font-weight="700" fill="#ffffff">Frontend</text>
     <g font-size="13.5" fill="#c9d1d9">
-      <circle cx="46" cy="129" r="2.5" fill="#22d3ee"/><text x="58" y="133">Angular (v11–19)</text>
-      <circle cx="46" cy="155" r="2.5" fill="#22d3ee"/><text x="58" y="159">TypeScript</text>
-      <circle cx="46" cy="181" r="2.5" fill="#22d3ee"/><text x="58" y="185">React · Next.js</text>
-      <circle cx="46" cy="207" r="2.5" fill="#22d3ee"/><text x="58" y="211">RxJS · Reactive Forms</text>
-      <circle cx="46" cy="233" r="2.5" fill="#22d3ee"/><text x="58" y="237">Three.js · Vite</text>
-      <circle cx="46" cy="259" r="2.5" fill="#22d3ee"/><text x="58" y="263">Tailwind · Material</text>
+      <circle cx="46" cy="129" r="2.5" fill="#ffffff"/><text x="58" y="133">Angular (v11–19)</text>
+      <circle cx="46" cy="155" r="2.5" fill="#ffffff"/><text x="58" y="159">TypeScript</text>
+      <circle cx="46" cy="181" r="2.5" fill="#ffffff"/><text x="58" y="185">React · Next.js</text>
+      <circle cx="46" cy="207" r="2.5" fill="#ffffff"/><text x="58" y="211">RxJS · Reactive Forms</text>
+      <circle cx="46" cy="233" r="2.5" fill="#ffffff"/><text x="58" y="237">Three.js · Vite</text>
+      <circle cx="46" cy="259" r="2.5" fill="#ffffff"/><text x="58" y="263">Tailwind · Material</text>
     </g>
   </g>
 
   <!-- Column 2: Languages -->
   <g font-family="'Segoe UI',sans-serif">
     <rect x="290" y="84" width="44" height="4" rx="2" fill="url(#hl2)"/>
-    <text x="290" y="104" font-size="15" font-weight="700" fill="#56d4c4">Languages</text>
+    <text x="290" y="104" font-size="15" font-weight="700" fill="#e0e0e0">Languages</text>
     <g font-size="13.5" fill="#c9d1d9">
-      <circle cx="296" cy="129" r="2.5" fill="#56d4c4"/><text x="308" y="133">JavaScript</text>
-      <circle cx="296" cy="155" r="2.5" fill="#56d4c4"/><text x="308" y="159">Python</text>
-      <circle cx="296" cy="181" r="2.5" fill="#56d4c4"/><text x="308" y="185">PHP</text>
-      <circle cx="296" cy="207" r="2.5" fill="#56d4c4"/><text x="308" y="211">HTML5 · CSS3</text>
-      <circle cx="296" cy="233" r="2.5" fill="#56d4c4"/><text x="308" y="237">SCSS / Sass</text>
-      <circle cx="296" cy="259" r="2.5" fill="#56d4c4"/><text x="308" y="263">D3.js · Storybook</text>
+      <circle cx="296" cy="129" r="2.5" fill="#e0e0e0"/><text x="308" y="133">JavaScript</text>
+      <circle cx="296" cy="155" r="2.5" fill="#e0e0e0"/><text x="308" y="159">Python</text>
+      <circle cx="296" cy="181" r="2.5" fill="#e0e0e0"/><text x="308" y="185">PHP</text>
+      <circle cx="296" cy="207" r="2.5" fill="#e0e0e0"/><text x="308" y="211">HTML5 · CSS3</text>
+      <circle cx="296" cy="233" r="2.5" fill="#e0e0e0"/><text x="308" y="237">SCSS / Sass</text>
+      <circle cx="296" cy="259" r="2.5" fill="#e0e0e0"/><text x="308" y="263">D3.js · Storybook</text>
     </g>
   </g>
 
   <!-- Column 3: Backend & Data -->
   <g font-family="'Segoe UI',sans-serif">
     <rect x="540" y="84" width="44" height="4" rx="2" fill="url(#hl3)"/>
-    <text x="540" y="104" font-size="15" font-weight="700" fill="#c4b5fd">Backend &amp; Data</text>
+    <text x="540" y="104" font-size="15" font-weight="700" fill="#b0b0b0">Backend &amp; Data</text>
     <g font-size="13.5" fill="#c9d1d9">
-      <circle cx="546" cy="129" r="2.5" fill="#c4b5fd"/><text x="558" y="133">Node.js</text>
-      <circle cx="546" cy="155" r="2.5" fill="#c4b5fd"/><text x="558" y="159">Django · DRF</text>
-      <circle cx="546" cy="181" r="2.5" fill="#c4b5fd"/><text x="558" y="185">FastAPI</text>
-      <circle cx="546" cy="207" r="2.5" fill="#c4b5fd"/><text x="558" y="211">MySQL · SQLite</text>
-      <circle cx="546" cy="233" r="2.5" fill="#c4b5fd"/><text x="558" y="237">CockroachDB</text>
-      <circle cx="546" cy="259" r="2.5" fill="#c4b5fd"/><text x="558" y="263">Apache Druid</text>
+      <circle cx="546" cy="129" r="2.5" fill="#b0b0b0"/><text x="558" y="133">Node.js</text>
+      <circle cx="546" cy="155" r="2.5" fill="#b0b0b0"/><text x="558" y="159">Django · DRF</text>
+      <circle cx="546" cy="181" r="2.5" fill="#b0b0b0"/><text x="558" y="185">FastAPI</text>
+      <circle cx="546" cy="207" r="2.5" fill="#b0b0b0"/><text x="558" y="211">MySQL · SQLite</text>
+      <circle cx="546" cy="233" r="2.5" fill="#b0b0b0"/><text x="558" y="237">CockroachDB</text>
+      <circle cx="546" cy="259" r="2.5" fill="#b0b0b0"/><text x="558" y="263">Apache Druid</text>
     </g>
   </g>
 
   <!-- Column 4: Tools & AI -->
   <g font-family="'Segoe UI',sans-serif">
     <rect x="790" y="84" width="44" height="4" rx="2" fill="url(#hl4)"/>
-    <text x="790" y="104" font-size="15" font-weight="700" fill="#f0883e">Tools &amp; AI</text>
+    <text x="790" y="104" font-size="15" font-weight="700" fill="#cfcfcf">Tools &amp; AI</text>
     <g font-size="13.5" fill="#c9d1d9">
-      <circle cx="796" cy="129" r="2.5" fill="#f0883e"/><text x="808" y="133">Git · GitHub</text>
-      <circle cx="796" cy="155" r="2.5" fill="#f0883e"/><text x="808" y="159">Jenkins · CI/CD</text>
-      <circle cx="796" cy="181" r="2.5" fill="#f0883e"/><text x="808" y="185">Jira · Postman</text>
-      <circle cx="796" cy="207" r="2.5" fill="#f0883e"/><text x="808" y="211">Swagger · Vercel</text>
-      <circle cx="796" cy="233" r="2.5" fill="#f0883e"/><text x="808" y="237">Copilot · Cursor</text>
-      <circle cx="796" cy="259" r="2.5" fill="#f0883e"/><text x="808" y="263">Claude · ChatGPT</text>
+      <circle cx="796" cy="129" r="2.5" fill="#cfcfcf"/><text x="808" y="133">Git · GitHub</text>
+      <circle cx="796" cy="155" r="2.5" fill="#cfcfcf"/><text x="808" y="159">Jenkins · CI/CD</text>
+      <circle cx="796" cy="181" r="2.5" fill="#cfcfcf"/><text x="808" y="185">Jira · Postman</text>
+      <circle cx="796" cy="207" r="2.5" fill="#cfcfcf"/><text x="808" y="211">Swagger · Vercel</text>
+      <circle cx="796" cy="233" r="2.5" fill="#cfcfcf"/><text x="808" y="237">Copilot · Cursor</text>
+      <circle cx="796" cy="259" r="2.5" fill="#cfcfcf"/><text x="808" y="263">Claude · ChatGPT</text>
     </g>
   </g>
 
