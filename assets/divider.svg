@@ -1,22 +1,22 @@
-<svg viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="section divider">
+<svg viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider">
   <defs>
     <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
-      <stop offset="0.25" stop-color="#2dd4bf"/>
-      <stop offset="0.5" stop-color="#22d3ee"/>
-      <stop offset="0.75" stop-color="#a855f7"/>
-      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+      <stop offset="0" stop-color="#888888" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#9a9a9a"/>
+      <stop offset="0.5" stop-color="#bdbdbd"/>
+      <stop offset="0.7" stop-color="#9a9a9a"/>
+      <stop offset="1" stop-color="#888888" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <line x1="60" y1="20" x2="940" y2="20" stroke="url(#dg)" stroke-width="2"/>
-  <circle cx="500" cy="20" r="5" fill="#22d3ee">
+  <circle cx="500" cy="20" r="5" fill="#bdbdbd">
     <animate attributeName="r" values="3;6;3" dur="2.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="500" cy="20" r="10" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.4">
+  <circle cx="500" cy="20" r="10" fill="none" stroke="#9a9a9a" stroke-width="1" opacity="0.4">
     <animate attributeName="r" values="6;16;6" dur="2.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;0;0.5" dur="2.5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="200" cy="20" r="2.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
-  <circle cx="800" cy="20" r="2.5" fill="#a855f7"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="20" r="2.5" fill="#9a9a9a"><animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="800" cy="20" r="2.5" fill="#9a9a9a"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
 </svg>
