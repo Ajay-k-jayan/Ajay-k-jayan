@@ -1,0 +1,47 @@
+<svg viewBox="0 0 850 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Career highlights by the numbers">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10151c"/>
+      <stop offset="1" stop-color="#0c1016"/>
+    </linearGradient>
+    <linearGradient id="num1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#70a5fd"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+    <linearGradient id="num2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#38bdae"/><stop offset="1" stop-color="#0ea5a4"/></linearGradient>
+    <linearGradient id="num3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bf91f3"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="num4" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0883e"/><stop offset="1" stop-color="#db6d28"/></linearGradient>
+    <linearGradient id="num5" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3b341"/><stop offset="1" stop-color="#d4a017"/></linearGradient>
+  </defs>
+
+  <rect width="850" height="170" rx="16" fill="url(#card)" stroke="#21262d" stroke-width="1"/>
+  <text x="32" y="40" font-family="'Fira Code', monospace" font-size="15" font-weight="700" fill="#8b949e">// by the numbers</text>
+  <circle cx="200" cy="35" r="3" fill="#38bdae"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+  <line x1="32" y1="54" x2="818" y2="54" stroke="#21262d" stroke-width="1"/>
+
+  <g>
+    <text x="90" y="112" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="44" font-weight="800" fill="url(#num1)">3+</text>
+    <text x="90" y="138" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12.5" fill="#c9d1d9">Years Experience</text>
+  </g>
+  <line x1="170" y1="74" x2="170" y2="146" stroke="#21262d" stroke-width="1"/>
+
+  <g>
+    <text x="265" y="112" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="44" font-weight="800" fill="url(#num2)">8</text>
+    <text x="265" y="138" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12.5" fill="#c9d1d9">Member Team Led</text>
+  </g>
+  <line x1="345" y1="74" x2="345" y2="146" stroke="#21262d" stroke-width="1"/>
+
+  <g>
+    <text x="440" y="112" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="44" font-weight="800" fill="url(#num3)">300+</text>
+    <text x="440" y="138" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12.5" fill="#c9d1d9">Automated Checks</text>
+  </g>
+  <line x1="535" y1="74" x2="535" y2="146" stroke="#21262d" stroke-width="1"/>
+
+  <g>
+    <text x="625" y="112" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="44" font-weight="800" fill="url(#num4)">25+</text>
+    <text x="625" y="138" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12.5" fill="#c9d1d9">Certifications</text>
+  </g>
+  <line x1="710" y1="74" x2="710" y2="146" stroke="#21262d" stroke-width="1"/>
+
+  <g>
+    <text x="780" y="112" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="44" font-weight="800" fill="url(#num5)">17</text>
+    <text x="780" y="138" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12.5" fill="#c9d1d9">Anthropic Certs</text>
+  </g>
+</svg>
