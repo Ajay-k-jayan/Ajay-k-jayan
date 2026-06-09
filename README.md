@@ -6,7 +6,7 @@
 <!-- ====================== TYPING HEADER ====================== -->
 <div align="center">
   <a href="https://ajaykj.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Beinex;Angular+%26+Frontend+Specialist;3%2B+Years+Building+Scalable+Web+Apps;AI-Assisted+Development+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Beinex;Angular+%26+Frontend+Specialist;3%2B+Years+Building+Scalable+Web+Apps;AI-Assisted+Development+Enthusiast" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -23,7 +23,7 @@
   <a href="https://twitter.com/ajaykj"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf"><img src="https://img.shields.io/badge/Resume-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
   <br/><br/>
-  <a href="https://github.com/Ajay-k-jayan"><img src="https://komarev.com/ghpvc/?username=Ajay-k-jayan&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+  <a href="https://github.com/Ajay-k-jayan"><img src="https://komarev.com/ghpvc/?username=Ajay-k-jayan&style=for-the-badge&color=2dd4bf&label=PROFILE+VIEWS" alt="Profile Views"/></a>
 </div>
 
 <!-- ====================== HIGHLIGHTS CARD (self-hosted) ====================== -->
@@ -166,26 +166,26 @@ export class AjayKJ implements Developer {
 
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-k-jayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-k-jayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b061c&title_color=2dd4bf&icon_color=a855f7&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Ajay-k-jayan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-k-jayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Ajay-k-jayan">
-    <img src="https://streak-stats.demolab.com?user=Ajay-k-jayan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-k-jayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b061c&title_color=2dd4bf&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-k-jayan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <a href="https://github.com/Ajay-k-jayan">
+    <img src="https://streak-stats.demolab.com?user=Ajay-k-jayan&theme=tokyonight-duo&hide_border=true&background=0B061C&ring=2DD4BF&fire=A855F7&currStreakLabel=2DD4BF&sideLabels=22D3EE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0B061C&border_radius=10" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-k-jayan&theme=tokyo-night&bg_color=0b061c&color=2dd4bf&line=a855f7&point=22d3ee&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ajay-k-jayan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Ajay-k-jayan&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
   </a>
 </div>
 
