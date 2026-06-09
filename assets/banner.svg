@@ -2,53 +2,56 @@
   <title>Ajay K J — Senior Software Engineer</title>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0a"/><stop offset="1" stop-color="#050505"/></linearGradient>
-    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
-    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#bdbdbd"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
-    <linearGradient id="ul" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="17" cy="17" r="0.8" fill="#ffffff" opacity="0.06"/></pattern>
-    <filter id="glow" x="-40%" y="-60%" width="180%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.09"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#c8c8c8"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <linearGradient id="ul" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="17" cy="17" r="0.7" fill="#ffffff" opacity="0.055"/></pattern>
+    <filter id="glow" x="-40%" y="-60%" width="180%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <clipPath id="clip"><rect width="1200" height="340" rx="20"/></clipPath>
   </defs>
-
   <g clip-path="url(#clip)">
     <rect width="1200" height="340" fill="url(#bg)"/>
-    <ellipse cx="940" cy="150" rx="380" ry="240" fill="url(#halo)"><animate attributeName="opacity" values="0.6;1;0.6" dur="8s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="960" cy="160" rx="380" ry="240" fill="url(#halo)"><animate attributeName="opacity" values="0.5;1;0.5" dur="8s" repeatCount="indefinite"/></ellipse>
     <rect width="1200" height="340" fill="url(#grid)"/>
 
-    <!-- left: monochrome code streams (no braces) -->
+    <!-- code streams left -->
     <g font-family="'Fira Code','Cascadia Code',monospace" font-size="14.5" font-weight="500">
-      <text y="84" fill="#9a9a9a"><tspan x="28">&lt;angular/&gt;</tspan><animate attributeName="opacity" values="0;0.8;0" dur="7s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;80,0" dur="7s" begin="0s" repeatCount="indefinite"/></text>
-      <text y="126" fill="#cfcfcf"><tspan x="40">rxjs.observe()</tspan><animate attributeName="opacity" values="0;0.75;0" dur="8s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;95,0" dur="8s" begin="1.2s" repeatCount="indefinite"/></text>
-      <text y="168" fill="#7d7d7d"><tspan x="24">function buildMicro()</tspan><animate attributeName="opacity" values="0;0.7;0" dur="9s" begin="2.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;90,0" dur="9s" begin="2.5s" repeatCount="indefinite"/></text>
-      <text y="210" fill="#cfcfcf"><tspan x="42">export class</tspan><animate attributeName="opacity" values="0;0.78;0" dur="7.5s" begin="0.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;85,0" dur="7.5s" begin="0.8s" repeatCount="indefinite"/></text>
-      <text y="252" fill="#9a9a9a"><tspan x="28">signal&lt;State&gt;</tspan><animate attributeName="opacity" values="0;0.72;0" dur="8.5s" begin="3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;92,0" dur="8.5s" begin="3s" repeatCount="indefinite"/></text>
+      <text y="84" fill="#7a7a7a"><tspan x="28">&lt;angular/&gt;</tspan><animate attributeName="opacity" values="0;0.85;0" dur="7s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;80,0" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+      <text y="126" fill="#aaaaaa"><tspan x="40">rxjs.observe()</tspan><animate attributeName="opacity" values="0;0.78;0" dur="8s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;95,0" dur="8s" begin="1.2s" repeatCount="indefinite"/></text>
+      <text y="168" fill="#6a6a6a"><tspan x="24">function buildMicro()</tspan><animate attributeName="opacity" values="0;0.72;0" dur="9s" begin="2.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;90,0" dur="9s" begin="2.5s" repeatCount="indefinite"/></text>
+      <text y="210" fill="#aaaaaa"><tspan x="42">export class</tspan><animate attributeName="opacity" values="0;0.8;0" dur="7.5s" begin="0.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;85,0" dur="7.5s" begin="0.8s" repeatCount="indefinite"/></text>
+      <text y="252" fill="#7a7a7a"><tspan x="28">signal&lt;State&gt;</tspan><animate attributeName="opacity" values="0;0.74;0" dur="8.5s" begin="3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;92,0" dur="8.5s" begin="3s" repeatCount="indefinite"/></text>
     </g>
 
-    <!-- white starfield / particles -->
+    <!-- starfield -->
     <g fill="#ffffff">
-      <circle cx="430" cy="60" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
-      <circle cx="560" cy="110" r="1.2"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
-      <circle cx="500" cy="280" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
-      <circle cx="660" cy="300" r="1.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
-      <circle cx="760" cy="50" r="1.4"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.3s" repeatCount="indefinite"/></circle>
-      <circle cx="1120" cy="290" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
-      <circle cx="880" cy="300" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.7s" repeatCount="indefinite"/></circle>
+      <circle cx="430" cy="58" r="1.5"><animate attributeName="opacity" values="0.15;1;0.15" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="108" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="500" cy="278" r="1.6"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="660" cy="298" r="1.3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="48" r="1.4"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="1120" cy="288" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="880" cy="298" r="1.2"><animate attributeName="opacity" values="0.15;0.9;0.15" dur="2.7s" repeatCount="indefinite"/></circle>
     </g>
     <!-- constellation -->
-    <g stroke="#ffffff" stroke-width="0.5" opacity="0.25">
-      <line x1="430" y1="60" x2="560" y2="110"><animate attributeName="opacity" values="0.05;0.3;0.05" dur="6s" repeatCount="indefinite"/></line>
-      <line x1="560" y1="110" x2="760" y2="50"><animate attributeName="opacity" values="0.05;0.25;0.05" dur="7s" repeatCount="indefinite"/></line>
+    <g stroke="#ffffff" stroke-width="0.4">
+      <line x1="430" y1="58" x2="560" y2="108"><animate attributeName="opacity" values="0.04;0.22;0.04" dur="6s" repeatCount="indefinite"/></line>
+      <line x1="560" y1="108" x2="760" y2="48"><animate attributeName="opacity" values="0.04;0.18;0.04" dur="7s" repeatCount="indefinite"/></line>
     </g>
 
-    <!-- right: name + position (right-aligned) -->
-    <text x="1160" y="158" text-anchor="end" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="56" font-weight="800" fill="url(#name)" letter-spacing="6" filter="url(#glow)">AJAY K J</text>
-    <rect x="860" y="176" width="300" height="2.5" fill="url(#ul)">
-      <animate attributeName="width" values="0;300" dur="1.2s" fill="freeze"/>
+    <!-- name — right-aligned, NO box -->
+    <text x="1165" y="168" text-anchor="end" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
+          font-size="58" font-weight="800" fill="url(#nameGrad)" letter-spacing="7" filter="url(#glow)">AJAY K J</text>
+    <!-- animated underline under name -->
+    <rect x="915" y="184" height="2" rx="1" fill="url(#ul)">
+      <animate attributeName="width" values="0;250" dur="1.1s" fill="freeze"/>
     </rect>
-    <text x="1160" y="208" text-anchor="end" font-family="'Fira Code',monospace" font-size="17" font-weight="600" fill="#d8d8d8" letter-spacing="4">SENIOR SOFTWARE ENGINEER</text>
+    <!-- position — right-aligned, NO box -->
+    <text x="1165" y="218" text-anchor="end" font-family="'Fira Code',monospace"
+          font-size="16.5" font-weight="600" fill="#c8c8c8" letter-spacing="4">SENIOR SOFTWARE ENGINEER</text>
 
-    <!-- HUD corner accents -->
-    <path d="M30,30 L30,68 M30,30 L68,30" stroke="#ffffff" stroke-width="2" opacity="0.45" fill="none"/>
-    <path d="M1170,310 L1170,272 M1170,310 L1132,310" stroke="#ffffff" stroke-width="2" opacity="0.45" fill="none"/>
+    <!-- HUD corners -->
+    <path d="M30,30 L30,68 M30,30 L68,30" stroke="#ffffff" stroke-width="1.8" opacity="0.4" fill="none"/>
+    <path d="M1170,310 L1170,272 M1170,310 L1132,310" stroke="#ffffff" stroke-width="1.8" opacity="0.4" fill="none"/>
   </g>
 </svg>
