@@ -1,22 +1,22 @@
 <svg viewBox="0 0 1000 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About Ajay K J">
   <defs>
-    <linearGradient id="term" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a20"/><stop offset="1" stop-color="#08060f"/></linearGradient>
+    <linearGradient id="term" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#161616"/><stop offset="1" stop-color="#08060f"/></linearGradient>
     <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#120e26"/><stop offset="1" stop-color="#0d0a1c"/></linearGradient>
   </defs>
-  <rect width="1000" height="340" rx="16" fill="url(#term)" stroke="#2dd4bf" stroke-opacity="0.2"/>
+  <rect width="1000" height="340" rx="16" fill="url(#term)" stroke="#d4d4d4" stroke-opacity="0.2"/>
   <path d="M0,16 a16,16 0 0 1 16,-16 h968 a16,16 0 0 1 16,16 v30 h-1000 z" fill="url(#bar)"/>
-  <circle cx="28" cy="23" r="6" fill="#ff5f57"/><circle cx="50" cy="23" r="6" fill="#febc2e"/><circle cx="72" cy="23" r="6" fill="#28c840"/>
-  <text x="500" y="28" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" fill="#8b8ba7">ajay-kj.developer.ts</text>
+  <circle cx="28" cy="23" r="6" fill="#d4d4d4"/><circle cx="50" cy="23" r="6" fill="#9a9a9a"/><circle cx="72" cy="23" r="6" fill="#6a6a6a"/>
+  <text x="500" y="28" text-anchor="middle" font-family="'Fira Code',monospace" font-size="13" fill="#7d7d7d">ajay-kj.developer.ts</text>
   <g font-family="'Fira Code','Cascadia Code',monospace" font-size="15">
-    <text x="30" y="86"><tspan fill="#a855f7">const</tspan> <tspan fill="#22d3ee">ajay</tspan> <tspan fill="#8b8ba7">:</tspan> <tspan fill="#5eead4">SeniorEngineer</tspan> <tspan fill="#8b8ba7">= {</tspan></text>
-    <text x="60" y="116"><tspan fill="#2dd4bf">role</tspan><tspan fill="#8b8ba7">:</tspan> <tspan fill="#c4b5fd">'Senior Software Engineer @ Beinex'</tspan><tspan fill="#8b8ba7">,</tspan></text>
-    <text x="60" y="142"><tspan fill="#2dd4bf">location</tspan><tspan fill="#8b8ba7">:</tspan> <tspan fill="#c4b5fd">'Kochi, Kerala, India'</tspan><tspan fill="#8b8ba7">,</tspan></text>
-    <text x="60" y="168"><tspan fill="#2dd4bf">experience</tspan><tspan fill="#8b8ba7">:</tspan> <tspan fill="#c4b5fd">'3+ years'</tspan><tspan fill="#8b8ba7">,</tspan></text>
-    <text x="60" y="194"><tspan fill="#2dd4bf">focus</tspan><tspan fill="#8b8ba7">:</tspan> <tspan fill="#c4b5fd">'Scalable Angular · High-performance frontends'</tspan><tspan fill="#8b8ba7">,</tspan></text>
-    <text x="60" y="220"><tspan fill="#2dd4bf">stack</tspan><tspan fill="#8b8ba7">: [</tspan><tspan fill="#c4b5fd">'Angular'</tspan><tspan fill="#8b8ba7">, </tspan><tspan fill="#c4b5fd">'TypeScript'</tspan><tspan fill="#8b8ba7">, </tspan><tspan fill="#c4b5fd">'RxJS'</tspan><tspan fill="#8b8ba7">, </tspan><tspan fill="#c4b5fd">'Node.js'</tspan><tspan fill="#8b8ba7">],</tspan></text>
-    <text x="60" y="246"><tspan fill="#2dd4bf">aiTools</tspan><tspan fill="#8b8ba7">: [</tspan><tspan fill="#c4b5fd">'Copilot'</tspan><tspan fill="#8b8ba7">, </tspan><tspan fill="#c4b5fd">'Cursor'</tspan><tspan fill="#8b8ba7">, </tspan><tspan fill="#c4b5fd">'Claude'</tspan><tspan fill="#8b8ba7">, </tspan><tspan fill="#c4b5fd">'ChatGPT'</tspan><tspan fill="#8b8ba7">],</tspan></text>
-    <text x="60" y="272"><tspan fill="#22d3ee">motto</tspan><tspan fill="#8b8ba7">: () =&gt;</tspan> <tspan fill="#c4b5fd">'Clean code · Scalable systems · Delightful UX'</tspan></text>
-    <text x="30" y="298"><tspan fill="#8b8ba7">};</tspan></text>
-    <rect x="56" y="312" width="9" height="16" fill="#22d3ee"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+    <text x="30" y="86"><tspan fill="#8a8a8a">const</tspan> <tspan fill="#ffffff">ajay</tspan> <tspan fill="#7d7d7d">:</tspan> <tspan fill="#ededed">SeniorEngineer</tspan> <tspan fill="#7d7d7d">= {</tspan></text>
+    <text x="60" y="116"><tspan fill="#d4d4d4">role</tspan><tspan fill="#7d7d7d">:</tspan> <tspan fill="#b0b0b0">'Senior Software Engineer @ Beinex'</tspan><tspan fill="#7d7d7d">,</tspan></text>
+    <text x="60" y="142"><tspan fill="#d4d4d4">location</tspan><tspan fill="#7d7d7d">:</tspan> <tspan fill="#b0b0b0">'Kochi, Kerala, India'</tspan><tspan fill="#7d7d7d">,</tspan></text>
+    <text x="60" y="168"><tspan fill="#d4d4d4">experience</tspan><tspan fill="#7d7d7d">:</tspan> <tspan fill="#b0b0b0">'3+ years'</tspan><tspan fill="#7d7d7d">,</tspan></text>
+    <text x="60" y="194"><tspan fill="#d4d4d4">focus</tspan><tspan fill="#7d7d7d">:</tspan> <tspan fill="#b0b0b0">'Scalable Angular · High-performance frontends'</tspan><tspan fill="#7d7d7d">,</tspan></text>
+    <text x="60" y="220"><tspan fill="#d4d4d4">stack</tspan><tspan fill="#7d7d7d">: [</tspan><tspan fill="#b0b0b0">'Angular'</tspan><tspan fill="#7d7d7d">, </tspan><tspan fill="#b0b0b0">'TypeScript'</tspan><tspan fill="#7d7d7d">, </tspan><tspan fill="#b0b0b0">'RxJS'</tspan><tspan fill="#7d7d7d">, </tspan><tspan fill="#b0b0b0">'Node.js'</tspan><tspan fill="#7d7d7d">],</tspan></text>
+    <text x="60" y="246"><tspan fill="#d4d4d4">aiTools</tspan><tspan fill="#7d7d7d">: [</tspan><tspan fill="#b0b0b0">'Copilot'</tspan><tspan fill="#7d7d7d">, </tspan><tspan fill="#b0b0b0">'Cursor'</tspan><tspan fill="#7d7d7d">, </tspan><tspan fill="#b0b0b0">'Claude'</tspan><tspan fill="#7d7d7d">, </tspan><tspan fill="#b0b0b0">'ChatGPT'</tspan><tspan fill="#7d7d7d">],</tspan></text>
+    <text x="60" y="272"><tspan fill="#ffffff">motto</tspan><tspan fill="#7d7d7d">: () =&gt;</tspan> <tspan fill="#b0b0b0">'Clean code · Scalable systems · Delightful UX'</tspan></text>
+    <text x="30" y="298"><tspan fill="#7d7d7d">};</tspan></text>
+    <rect x="56" y="312" width="9" height="16" fill="#ffffff"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
   </g>
 </svg>
