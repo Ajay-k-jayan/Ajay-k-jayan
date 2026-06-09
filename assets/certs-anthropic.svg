@@ -1,0 +1,86 @@
+<svg viewBox="0 0 996 452" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Anthropic Certifications"><defs><linearGradient id="cc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a20"/><stop offset="1" stop-color="#08060f"/></linearGradient></defs><a xlink:href="https://verify.skilljar.com/c/j7jfnvgs94aj" target="_blank"><rect x="22" y="14" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="22" y="14" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="44" cy="43.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="44" cy="43.0" r="3" fill="#22d3ee"/>
+<text x="62" y="38" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Claude 101</text>
+<text x="62" y="56" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/8byo99i49kbs" target="_blank"><rect x="344" y="14" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="344" y="14" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="366" cy="43.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="366" cy="43.0" r="3" fill="#22d3ee"/>
+<text x="384" y="38" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Claude Code 101</text>
+<text x="384" y="56" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/54mbn24tbipy" target="_blank"><rect x="666" y="14" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="666" y="14" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="688" cy="43.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="688" cy="43.0" r="3" fill="#22d3ee"/>
+<text x="706" y="38" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Claude Code in Action</text>
+<text x="706" y="56" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/p3586pqen568" target="_blank"><rect x="22" y="86" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="22" y="86" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="44" cy="115.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="44" cy="115.0" r="3" fill="#22d3ee"/>
+<text x="62" y="110" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Introduction to Claude Cowork</text>
+<text x="62" y="128" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/yy6bgip3fjiw" target="_blank"><rect x="344" y="86" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="344" y="86" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="366" cy="115.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="366" cy="115.0" r="3" fill="#22d3ee"/>
+<text x="384" y="110" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Building with the Claude API</text>
+<text x="384" y="128" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/q7x5bc6qo78f" target="_blank"><rect x="666" y="86" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="666" y="86" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="688" cy="115.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="688" cy="115.0" r="3" fill="#22d3ee"/>
+<text x="706" y="110" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Claude with Amazon Bedrock</text>
+<text x="706" y="128" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/x4puyp7qn2v7" target="_blank"><rect x="22" y="158" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="22" y="158" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="44" cy="187.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="44" cy="187.0" r="3" fill="#22d3ee"/>
+<text x="62" y="182" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Claude w/ Google Vertex AI</text>
+<text x="62" y="200" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/os5baz5ovkn4" target="_blank"><rect x="344" y="158" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="344" y="158" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="366" cy="187.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="366" cy="187.0" r="3" fill="#22d3ee"/>
+<text x="384" y="182" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Intro to Model Context Protocol</text>
+<text x="384" y="200" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/o74mdizi5b56" target="_blank"><rect x="666" y="158" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="666" y="158" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="688" cy="187.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="688" cy="187.0" r="3" fill="#22d3ee"/>
+<text x="706" y="182" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">MCP: Advanced Topics</text>
+<text x="706" y="200" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/ykakzz7ivwtr" target="_blank"><rect x="22" y="230" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="22" y="230" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="44" cy="259.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="44" cy="259.0" r="3" fill="#22d3ee"/>
+<text x="62" y="254" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">AI Fluency: Framework</text>
+<text x="62" y="272" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/hobrx8z5zn7k" target="_blank"><rect x="344" y="230" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="344" y="230" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="366" cy="259.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="366" cy="259.0" r="3" fill="#22d3ee"/>
+<text x="384" y="254" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">AI Capabilities &amp; Limitations</text>
+<text x="384" y="272" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/j6hz6zcbgty3" target="_blank"><rect x="666" y="230" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="666" y="230" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="688" cy="259.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="688" cy="259.0" r="3" fill="#22d3ee"/>
+<text x="706" y="254" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">AI Fluency for Educators</text>
+<text x="706" y="272" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/e7nhd57xtson" target="_blank"><rect x="22" y="302" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="22" y="302" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="44" cy="331.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="44" cy="331.0" r="3" fill="#22d3ee"/>
+<text x="62" y="326" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">AI Fluency for Students</text>
+<text x="62" y="344" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/jpa3443fmrhn" target="_blank"><rect x="344" y="302" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="344" y="302" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="366" cy="331.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="366" cy="331.0" r="3" fill="#22d3ee"/>
+<text x="384" y="326" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Teaching AI Fluency</text>
+<text x="384" y="344" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/toms4xkgh9a7" target="_blank"><rect x="666" y="302" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="666" y="302" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="688" cy="331.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="688" cy="331.0" r="3" fill="#22d3ee"/>
+<text x="706" y="326" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">AI Fluency for Nonprofits</text>
+<text x="706" y="344" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/6tvrhxistwf2" target="_blank"><rect x="22" y="374" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="22" y="374" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="44" cy="403.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="44" cy="403.0" r="3" fill="#22d3ee"/>
+<text x="62" y="398" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Intro to Agent Skills</text>
+<text x="62" y="416" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a><a xlink:href="https://verify.skilljar.com/c/m4hf6uxodihg" target="_blank"><rect x="344" y="374" width="308" height="58" rx="11" fill="url(#cc)" stroke="#22d3ee" stroke-opacity="0.35"/>
+<rect x="344" y="374" width="3.5" height="58" rx="1.75" fill="#22d3ee"/>
+<circle cx="366" cy="403.0" r="7" fill="#22d3ee" opacity="0.22"/>
+<circle cx="366" cy="403.0" r="3" fill="#22d3ee"/>
+<text x="384" y="398" font-family="'Segoe UI',sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Intro to Subagents</text>
+<text x="384" y="416" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic</text></a></svg>
