@@ -3,20 +3,11 @@
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/banner.svg" alt="Ajay K J — Senior Software Engineer" width="100%"/>
 </a>
 
-<!-- ====================== CONNECT BAR (monochrome) ====================== -->
+<!-- ====================== CONNECT / SOCIAL BAR ====================== -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/LinkedIn-0a0618?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Ajay-k-jayan"><img src="https://img.shields.io/badge/GitHub-0a0618?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://ajaykj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0618?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:ajaykj2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-0a0618?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <br/>
-  <a href="https://wa.me/918289917044"><img src="https://img.shields.io/badge/WhatsApp-0a0618?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-  <a href="tel:+918289917044"><img src="https://img.shields.io/badge/+91%2082899%2017044-0a0618?style=for-the-badge&logo=googlevoice&logoColor=white" alt="Phone"/></a>
-  <a href="https://www.instagram.com/aj_ay.kj/"><img src="https://img.shields.io/badge/Instagram-0a0618?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/ajaykj"><img src="https://img.shields.io/badge/X-0a0618?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf"><img src="https://img.shields.io/badge/Resume-0a0618?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
-  <br/><br/>
-  <a href="https://github.com/Ajay-k-jayan"><img src="https://komarev.com/ghpvc/?username=Ajay-k-jayan&style=for-the-badge&color=2dd4bf&labelColor=0a0618&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+  <a href="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social.html">
+    <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social-preview.svg" alt="Connect with Ajay K J" width="100%"/>
+  </a>
 </div>
 
 <!-- ====================== HIGHLIGHTS ====================== -->
