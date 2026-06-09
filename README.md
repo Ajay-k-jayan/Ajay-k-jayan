@@ -1,18 +1,17 @@
-<!-- ====================== 1. HERO BANNER (self-hosted SVG — always loads) ====================== -->
+<!-- ====================== HERO BANNER (self-hosted animated SVG) ====================== -->
 <a href="https://ajaykj.vercel.app/">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/banner.svg" alt="Ajay K J — Senior Software Engineer" width="100%"/>
 </a>
 
-<!-- ====================== 2. TYPING HEADER ====================== -->
+<!-- ====================== TYPING HEADER ====================== -->
 <div align="center">
   <a href="https://ajaykj.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Senior+Software+Engineer+%40+Beinex;Angular+%26+Frontend+Specialist;3%2B+Years+Building+Scalable+Web+Apps;AI-Assisted+Development+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Beinex;Angular+%26+Frontend+Specialist;3%2B+Years+Building+Scalable+Web+Apps;AI-Assisted+Development+Enthusiast" alt="Typing SVG"/>
   </a>
 </div>
 
-<!-- ====================== 3. CONNECT / CONTACT BAR (all redirections) ====================== -->
+<!-- ====================== CONNECT / CONTACT BAR ====================== -->
 <div align="center">
-
   <a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Ajay-k-jayan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://ajaykj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -21,21 +20,20 @@
   <a href="https://wa.me/918289917044"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="tel:+918289917044"><img src="https://img.shields.io/badge/+91%2082899%2017044-128C7E?style=for-the-badge&logo=googlevoice&logoColor=white" alt="Phone"/></a>
   <a href="https://www.instagram.com/aj_ay.kj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://twitter.com/ajaykj"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://twitter.com/ajaykj"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf"><img src="https://img.shields.io/badge/Resume-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
   <br/><br/>
   <a href="https://github.com/Ajay-k-jayan"><img src="https://komarev.com/ghpvc/?username=Ajay-k-jayan&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile Views"/></a>
-
 </div>
 
-<!-- ====================== HIGHLIGHTS CARD (self-hosted SVG — always loads) ====================== -->
+<!-- ====================== HIGHLIGHTS CARD (self-hosted) ====================== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/highlights.svg" alt="Career highlights by the numbers" width="100%"/>
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/divider.svg" width="100%" alt=""/>
 
-<!-- ====================== 4. CODE-BLOCK ABOUT ME ====================== -->
+<!-- ====================== ABOUT ME ====================== -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
@@ -74,17 +72,28 @@ export class AjayKJ implements Developer {
 
 <br clear="right"/>
 
-<!-- ====================== CONTRIBUTION SNAKE (self-hosted = always loads) ====================== -->
+<!-- ====================== CONTRIBUTION SNAKE (self-hosted) ====================== -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake.svg"/>
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
-<!-- ====================== 5. TECH BADGES (full resume parity) ====================== -->
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/divider.svg" width="100%" alt=""/>
+
+<!-- ====================== TECH STACK ====================== -->
 ## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/tech-arsenal.svg" alt="Tech Arsenal" width="100%"/>
+</div>
+
+<details>
+<summary><b>🔎 Full badge view — every tool, grouped</b></summary>
+
+<br/>
 
 **Languages & Runtime**
 
@@ -97,78 +106,62 @@ export class AjayKJ implements Developer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-**Frontend Frameworks & Libraries**
+**Frontend & Libraries**
 
 ![Angular](https://img.shields.io/badge/Angular%20v11--19-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-**State & Core Concepts**
-
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![Reactive Forms](https://img.shields.io/badge/Reactive%20Forms-414868?style=flat-square)
-![Lazy Loading](https://img.shields.io/badge/Lazy%20Loading-414868?style=flat-square)
-![Micro Frontends](https://img.shields.io/badge/Micro%20Frontend%20Architecture-414868?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC%20Architecture-414868?style=flat-square)
-![BEM](https://img.shields.io/badge/BEM%20Methodology-414868?style=flat-square)
-![Atomic Design](https://img.shields.io/badge/Atomic%20Design-414868?style=flat-square)
-![Design Systems](https://img.shields.io/badge/Design%20Systems-414868?style=flat-square)
-![Performance](https://img.shields.io/badge/Performance%20Optimization-414868?style=flat-square)
-![Reusable Components](https://img.shields.io/badge/Reusable%20Component%20Design-414868?style=flat-square)
-
-**UI & Visualization**
-
 ![Angular Material](https://img.shields.io/badge/Angular%20Material-757575?style=flat-square&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
-**API & Integration**
+**Core Concepts**
 
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL%20(Basic)-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Micro Frontends](https://img.shields.io/badge/Micro%20Frontend%20Architecture-414868?style=flat-square)
+![Reactive Forms](https://img.shields.io/badge/Reactive%20Forms-414868?style=flat-square)
+![Lazy Loading](https://img.shields.io/badge/Lazy%20Loading-414868?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC%20Architecture-414868?style=flat-square)
+![BEM](https://img.shields.io/badge/BEM%20Methodology-414868?style=flat-square)
+![Atomic Design](https://img.shields.io/badge/Atomic%20Design-414868?style=flat-square)
+![Design Systems](https://img.shields.io/badge/Design%20Systems-414868?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance%20Optimization-414868?style=flat-square)
 
-**Backend**
+**Backend, Data & API**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-A30000?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Databases**
-
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white)
 ![Apache Druid](https://img.shields.io/badge/Apache%20Druid-29F1FB?style=flat-square&logo=apachedruid&logoColor=black)
 
-**Tools, DevOps & Testing**
+**Tools, DevOps & AI**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-414868?style=flat-square)
-![Debugging](https://img.shields.io/badge/Debugging-414868?style=flat-square)
-
-**AI Tools & Methodologies**
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-414868?style=flat-square)
-![Waterfall](https://img.shields.io/badge/Waterfall-414868?style=flat-square)
 
-<!-- ====================== 6 & 7. GITHUB STATS + TOP LANGUAGES ====================== -->
+</details>
+
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/divider.svg" width="100%" alt=""/>
+
+<!-- ====================== GITHUB ANALYTICS (live) ====================== -->
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -180,26 +173,25 @@ export class AjayKJ implements Developer {
   </a>
 </div>
 
-<!-- ====================== 8. STREAK STATS ====================== -->
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan">
     <img src="https://streak-stats.demolab.com?user=Ajay-k-jayan&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
   </a>
 </div>
 
-<!-- ====================== 9. ACTIVITY GRAPH ====================== -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-k-jayan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-<!-- ====================== 10. TROPHY WALL ====================== -->
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan">
     <img src="https://github-profile-trophy.vercel.app/?username=Ajay-k-jayan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
   </a>
 </div>
 
-<!-- ====================== 11. WORK EXPERIENCE ====================== -->
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/divider.svg" width="100%" alt=""/>
+
+<!-- ====================== WORK EXPERIENCE ====================== -->
 ## 💼 Work Experience
 
 <details open>
@@ -249,7 +241,9 @@ export class AjayKJ implements Developer {
 
 </details>
 
-<!-- ====================== 12. FEATURED PROJECTS ====================== -->
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/divider.svg" width="100%" alt=""/>
+
+<!-- ====================== FEATURED PROJECTS ====================== -->
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -262,7 +256,9 @@ export class AjayKJ implements Developer {
 
 </div>
 
-<!-- ====================== 13. ACHIEVEMENTS ====================== -->
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/divider.svg" width="100%" alt=""/>
+
+<!-- ====================== ACHIEVEMENTS ====================== -->
 ## 🏆 Achievements
 
 <div align="center">
@@ -271,12 +267,11 @@ export class AjayKJ implements Developer {
 |:---:|:---|:---|
 | 🥇 | **Beinex Excelencia Award** | Awarded in **2024** for outstanding performance and contribution as a Software Engineer. |
 | ⭐ | **Star Performer Award** | Earned during internship for strong early performance and impact. |
-| 🎓 | **25+ Professional Certifications** | Including **17 Anthropic AI certifications** plus Meta, Google, AWS & DeepLearning.AI (full list below). |
+| 🎓 | **25+ Professional Certifications** | Including **17 Anthropic AI certifications** plus Meta, Google, AWS & DeepLearning.AI. |
 | 🤖 | **AI-Assisted Engineering** | Daily hands-on workflows with GitHub Copilot, Cursor AI, Claude, and ChatGPT. |
 
 </div>
 
-<!-- ====================== 14. CERTIFICATIONS (all of them) ====================== -->
 ## 📜 Certifications
 
 <details open>
@@ -308,14 +303,16 @@ export class AjayKJ implements Developer {
 
 </details>
 
-<!-- ====================== 15. EDUCATION + LEARNING ====================== -->
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/divider.svg" width="100%" alt=""/>
+
+<!-- ====================== EDUCATION + LEARNING ====================== -->
 ## 🎓 Education
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|:---|:---|:---:|:---:|
-| Diploma in Computer Engineering | Government Polytechnic College, Perumbavoor | 2018 – 2021 | — |
+| Degree | Institution | Year |
+|:---|:---|:---:|
+| Diploma in Computer Engineering | Government Polytechnic College, Perumbavoor | 2018 – 2021 |
 
 </div>
 
@@ -328,7 +325,7 @@ export class AjayKJ implements Developer {
 ⚡ Performance Engineering        →  Change detection · Rendering · Bundle splitting
 ```
 
-<!-- ====================== 16. FOOTER ====================== -->
+<!-- ====================== FOOTER (self-hosted) ====================== -->
 <div align="center">
 
 ### 💬 Let's build something great together
@@ -336,10 +333,6 @@ export class AjayKJ implements Developer {
 <a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/></a>
 <a href="mailto:ajaykj2000@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/></a>
 <a href="https://ajaykj.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-0B0F14?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-
-<br/>
-
-<i>⭐ From <a href="https://github.com/Ajay-k-jayan">Ajay K J</a> — thanks for stopping by!</i>
 
 </div>
 
