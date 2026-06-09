@@ -219,14 +219,11 @@
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-achieve.svg" width="100%" alt="Achievements & Certifications"/>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/achievements.svg" alt="Achievements" width="100%"/>
+</div>
 
-| | Achievement | Details |
-|:---:|:---|:---|
-| 🥇 | **Beinex Excelencia Award** | Awarded in **2024** for outstanding performance and contribution. |
-| ⭐ | **Star Performer Award** | Earned during internship for strong early impact. |
-| 🎓 | **25+ Professional Certifications** | Including **17 Anthropic AI certifications** plus Meta, Google, AWS & DeepLearning.AI. |
-| 🤖 | **AI-Assisted Engineering** | Daily workflows with GitHub Copilot, Cursor AI, Claude, and ChatGPT. |
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certifications.svg" alt="Certifications overview" width="100%"/>
 </div>
 
 <details open>
