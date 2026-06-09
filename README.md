@@ -3,13 +3,6 @@
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/banner.svg" alt="Ajay K J — Senior Software Engineer" width="100%"/>
 </a>
 
-<!-- ====================== TYPING HEADER (theme-safe gray) ====================== -->
-<div align="center">
-  <a href="https://ajaykj.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=B0B0B0&center=true&vCenter=true&width=800&lines=Senior+Software+Engineer+%40+Beinex;Angular+%26+Frontend+Specialist;3%2B+Years+Building+Scalable+Web+Apps;Architecture+%C2%B7+Innovation+%C2%B7+Scale" alt="Typing SVG"/>
-  </a>
-</div>
-
 <!-- ====================== CONNECT BAR (monochrome) ====================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
