@@ -1,72 +1,54 @@
 <svg viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ajay K J — Senior Software Engineer">
   <title>Ajay K J — Senior Software Engineer</title>
   <defs>
-    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#03050d"/><stop offset="0.5" stop-color="#070414"/><stop offset="1" stop-color="#0b061c"/>
-    </linearGradient>
-    <radialGradient id="nebTeal" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.40"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
-    <radialGradient id="nebPurple" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0.44"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
-    <radialGradient id="nebCyan" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.30"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="17" cy="17" r="0.8" fill="#5eead4" opacity="0.09"/></pattern>
-    <filter id="tglow" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0a"/><stop offset="1" stop-color="#050505"/></linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#bdbdbd"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <linearGradient id="ul" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><circle cx="17" cy="17" r="0.8" fill="#ffffff" opacity="0.06"/></pattern>
+    <filter id="glow" x="-40%" y="-60%" width="180%" height="220%"><feGaussianBlur in="SourceGraphic" stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
     <clipPath id="clip"><rect width="1200" height="340" rx="20"/></clipPath>
   </defs>
 
   <g clip-path="url(#clip)">
-    <rect width="1200" height="340" fill="url(#space)"/>
-
-    <ellipse cx="250" cy="170" rx="420" ry="280" fill="url(#nebTeal)"><animate attributeName="cx" values="250;360;250" dur="19s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;1;0.7" dur="9s" repeatCount="indefinite"/></ellipse>
-    <ellipse cx="960" cy="200" rx="440" ry="300" fill="url(#nebPurple)"><animate attributeName="cx" values="960;830;960" dur="23s" repeatCount="indefinite"/></ellipse>
-    <ellipse cx="640" cy="110" rx="380" ry="240" fill="url(#nebCyan)"><animate attributeName="cy" values="110;190;110" dur="17s" repeatCount="indefinite"/></ellipse>
-
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <ellipse cx="940" cy="150" rx="380" ry="240" fill="url(#halo)"><animate attributeName="opacity" values="0.6;1;0.6" dur="8s" repeatCount="indefinite"/></ellipse>
     <rect width="1200" height="340" fill="url(#grid)"/>
 
-    <!-- network architecture nodes (right) -->
-    <g stroke="#2dd4bf" stroke-width="0.7" opacity="0.5">
-      <line x1="930" y1="70" x2="1030" y2="118"><animate attributeName="opacity" values="0.1;0.4;0.1" dur="5s" repeatCount="indefinite"/></line>
-      <line x1="1030" y1="118" x2="1110" y2="78"><animate attributeName="opacity" values="0.1;0.4;0.1" dur="6s" repeatCount="indefinite"/></line>
-      <line x1="1030" y1="118" x2="1095" y2="200"><animate attributeName="opacity" values="0.1;0.35;0.1" dur="7s" repeatCount="indefinite"/></line>
-      <line x1="1095" y1="200" x2="980" y2="250"><animate attributeName="opacity" values="0.1;0.32;0.1" dur="6.4s" repeatCount="indefinite"/></line>
-      <line x1="120" y1="280" x2="240" y2="255"><animate attributeName="opacity" values="0.1;0.3;0.1" dur="6.5s" repeatCount="indefinite"/></line>
-    </g>
-    <g fill="#22d3ee">
-      <circle cx="930" cy="70" r="3"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></circle>
-      <circle cx="1030" cy="118" r="4" fill="#a855f7"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.6s" repeatCount="indefinite"/></circle>
-      <circle cx="1110" cy="78" r="2.5"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.8s" repeatCount="indefinite"/></circle>
-      <circle cx="1095" cy="200" r="3" fill="#2dd4bf"><animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/></circle>
-      <circle cx="980" cy="250" r="2.5" fill="#a855f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.4s" repeatCount="indefinite"/></circle>
-      <circle cx="120" cy="280" r="3" fill="#2dd4bf"><animate attributeName="opacity" values="0.4;1;0.4" dur="3.3s" repeatCount="indefinite"/></circle>
-      <circle cx="240" cy="255" r="2.5" fill="#a855f7"><animate attributeName="opacity" values="0.5;1;0.5" dur="3.9s" repeatCount="indefinite"/></circle>
-    </g>
-
-    <!-- flowing code streams (left) -->
+    <!-- left: monochrome code streams (no braces) -->
     <g font-family="'Fira Code','Cascadia Code',monospace" font-size="14.5" font-weight="500">
-      <text y="80" fill="#5eead4"><tspan x="28">&lt;angular/&gt;</tspan><animate attributeName="opacity" values="0;0.75;0" dur="7s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;80,0" dur="7s" begin="0s" repeatCount="indefinite"/></text>
-      <text y="120" fill="#22d3ee"><tspan x="40">rxjs -&gt; observe()</tspan><animate attributeName="opacity" values="0;0.7;0" dur="8s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;95,0" dur="8s" begin="1.2s" repeatCount="indefinite"/></text>
-      <text y="162" fill="#a78bfa"><tspan x="24">function buildMicro()</tspan><animate attributeName="opacity" values="0;0.68;0" dur="9s" begin="2.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;90,0" dur="9s" begin="2.5s" repeatCount="indefinite"/></text>
-      <text y="204" fill="#5eead4"><tspan x="42">@Component({ })</tspan><animate attributeName="opacity" values="0;0.72;0" dur="7.5s" begin="0.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;85,0" dur="7.5s" begin="0.8s" repeatCount="indefinite"/></text>
-      <text y="246" fill="#22d3ee"><tspan x="28">signal&lt;State&gt;()</tspan><animate attributeName="opacity" values="0;0.7;0" dur="8.5s" begin="3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;92,0" dur="8.5s" begin="3s" repeatCount="indefinite"/></text>
+      <text y="84" fill="#9a9a9a"><tspan x="28">&lt;angular/&gt;</tspan><animate attributeName="opacity" values="0;0.8;0" dur="7s" begin="0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;80,0" dur="7s" begin="0s" repeatCount="indefinite"/></text>
+      <text y="126" fill="#cfcfcf"><tspan x="40">rxjs.observe()</tspan><animate attributeName="opacity" values="0;0.75;0" dur="8s" begin="1.2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;95,0" dur="8s" begin="1.2s" repeatCount="indefinite"/></text>
+      <text y="168" fill="#7d7d7d"><tspan x="24">function buildMicro()</tspan><animate attributeName="opacity" values="0;0.7;0" dur="9s" begin="2.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;90,0" dur="9s" begin="2.5s" repeatCount="indefinite"/></text>
+      <text y="210" fill="#cfcfcf"><tspan x="42">export class</tspan><animate attributeName="opacity" values="0;0.78;0" dur="7.5s" begin="0.8s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;85,0" dur="7.5s" begin="0.8s" repeatCount="indefinite"/></text>
+      <text y="252" fill="#9a9a9a"><tspan x="28">signal&lt;State&gt;</tspan><animate attributeName="opacity" values="0;0.72;0" dur="8.5s" begin="3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0,0;92,0" dur="8.5s" begin="3s" repeatCount="indefinite"/></text>
     </g>
 
-    <!-- particles -->
-    <g fill="#5eead4">
-      <circle cx="500" cy="58" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
-      <circle cx="700" cy="300" r="1.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.6s" repeatCount="indefinite"/></circle>
-      <circle cx="430" cy="295" r="1.4" fill="#a78bfa"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
-      <circle cx="820" cy="60" r="1.4"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <!-- white starfield / particles -->
+    <g fill="#ffffff">
+      <circle cx="430" cy="60" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="110" r="1.2"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="500" cy="280" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="660" cy="300" r="1.3"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="760" cy="50" r="1.4"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="1120" cy="290" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="880" cy="300" r="1.2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.7s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- constellation -->
+    <g stroke="#ffffff" stroke-width="0.5" opacity="0.25">
+      <line x1="430" y1="60" x2="560" y2="110"><animate attributeName="opacity" values="0.05;0.3;0.05" dur="6s" repeatCount="indefinite"/></line>
+      <line x1="560" y1="110" x2="760" y2="50"><animate attributeName="opacity" values="0.05;0.25;0.05" dur="7s" repeatCount="indefinite"/></line>
     </g>
 
-    <!-- name plate (centered, no brackets) -->
-    <rect x="380" y="118" width="440" height="80" rx="13" fill="#070414" fill-opacity="0.55" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="1.2"/>
-    <text x="600" y="173" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="50" font-weight="800" fill="url(#nameGrad)" letter-spacing="7" filter="url(#tglow)">AJAY K J</text>
-
-    <!-- subtitle plate -->
-    <rect x="418" y="212" width="364" height="36" rx="9" fill="#070414" fill-opacity="0.45" stroke="#22d3ee" stroke-opacity="0.35" stroke-width="1"/>
-    <text x="600" y="236" text-anchor="middle" font-family="'Fira Code',monospace" font-size="15" font-weight="600" fill="#5eead4" letter-spacing="3.5">SENIOR SOFTWARE ENGINEER</text>
+    <!-- right: name + position (right-aligned) -->
+    <text x="1160" y="158" text-anchor="end" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="56" font-weight="800" fill="url(#name)" letter-spacing="6" filter="url(#glow)">AJAY K J</text>
+    <rect x="860" y="176" width="300" height="2.5" fill="url(#ul)">
+      <animate attributeName="width" values="0;300" dur="1.2s" fill="freeze"/>
+    </rect>
+    <text x="1160" y="208" text-anchor="end" font-family="'Fira Code',monospace" font-size="17" font-weight="600" fill="#d8d8d8" letter-spacing="4">SENIOR SOFTWARE ENGINEER</text>
 
     <!-- HUD corner accents -->
-    <path d="M30,30 L30,68 M30,30 L68,30" stroke="#2dd4bf" stroke-width="2" opacity="0.5" fill="none"/>
-    <path d="M1170,310 L1170,272 M1170,310 L1132,310" stroke="#a855f7" stroke-width="2" opacity="0.5" fill="none"/>
+    <path d="M30,30 L30,68 M30,30 L68,30" stroke="#ffffff" stroke-width="2" opacity="0.45" fill="none"/>
+    <path d="M1170,310 L1170,272 M1170,310 L1132,310" stroke="#ffffff" stroke-width="2" opacity="0.45" fill="none"/>
   </g>
 </svg>
