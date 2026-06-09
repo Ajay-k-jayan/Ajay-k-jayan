@@ -34,9 +34,7 @@
 <!-- ====================== ABOUT ====================== -->
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-about.svg" width="100%" alt="About Me"/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/about.svg" alt="About Ajay K J" width="100%"/>
-</div>
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/about.svg" alt="About Ajay K J" width="100%"/>
 
 <!-- contribution snake -->
 <div align="center">
