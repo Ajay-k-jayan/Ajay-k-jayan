@@ -1,11 +1,11 @@
 <svg viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tech Arsenal">
   <defs>
     <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#10151c"/><stop offset="1" stop-color="#0c1016"/>
+      <stop offset="0" stop-color="#0d0820"/><stop offset="1" stop-color="#0a0518"/>
     </linearGradient>
-    <linearGradient id="hl1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#79c0ff"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+    <linearGradient id="hl1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
     <linearGradient id="hl2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#56d4c4"/><stop offset="1" stop-color="#0ea5a4"/></linearGradient>
-    <linearGradient id="hl3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d2a8ff"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+    <linearGradient id="hl3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c4b5fd"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
     <linearGradient id="hl4" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0883e"/><stop offset="1" stop-color="#db6d28"/></linearGradient>
   </defs>
 
@@ -17,14 +17,14 @@
   <!-- Column 1: Frontend -->
   <g font-family="'Segoe UI',sans-serif">
     <rect x="40" y="84" width="44" height="4" rx="2" fill="url(#hl1)"/>
-    <text x="40" y="104" font-size="15" font-weight="700" fill="#79c0ff">Frontend</text>
+    <text x="40" y="104" font-size="15" font-weight="700" fill="#22d3ee">Frontend</text>
     <g font-size="13.5" fill="#c9d1d9">
-      <circle cx="46" cy="129" r="2.5" fill="#79c0ff"/><text x="58" y="133">Angular (v11–19)</text>
-      <circle cx="46" cy="155" r="2.5" fill="#79c0ff"/><text x="58" y="159">TypeScript</text>
-      <circle cx="46" cy="181" r="2.5" fill="#79c0ff"/><text x="58" y="185">React · Next.js</text>
-      <circle cx="46" cy="207" r="2.5" fill="#79c0ff"/><text x="58" y="211">RxJS · Reactive Forms</text>
-      <circle cx="46" cy="233" r="2.5" fill="#79c0ff"/><text x="58" y="237">Three.js · Vite</text>
-      <circle cx="46" cy="259" r="2.5" fill="#79c0ff"/><text x="58" y="263">Tailwind · Material</text>
+      <circle cx="46" cy="129" r="2.5" fill="#22d3ee"/><text x="58" y="133">Angular (v11–19)</text>
+      <circle cx="46" cy="155" r="2.5" fill="#22d3ee"/><text x="58" y="159">TypeScript</text>
+      <circle cx="46" cy="181" r="2.5" fill="#22d3ee"/><text x="58" y="185">React · Next.js</text>
+      <circle cx="46" cy="207" r="2.5" fill="#22d3ee"/><text x="58" y="211">RxJS · Reactive Forms</text>
+      <circle cx="46" cy="233" r="2.5" fill="#22d3ee"/><text x="58" y="237">Three.js · Vite</text>
+      <circle cx="46" cy="259" r="2.5" fill="#22d3ee"/><text x="58" y="263">Tailwind · Material</text>
     </g>
   </g>
 
@@ -45,14 +45,14 @@
   <!-- Column 3: Backend & Data -->
   <g font-family="'Segoe UI',sans-serif">
     <rect x="540" y="84" width="44" height="4" rx="2" fill="url(#hl3)"/>
-    <text x="540" y="104" font-size="15" font-weight="700" fill="#d2a8ff">Backend &amp; Data</text>
+    <text x="540" y="104" font-size="15" font-weight="700" fill="#c4b5fd">Backend &amp; Data</text>
     <g font-size="13.5" fill="#c9d1d9">
-      <circle cx="546" cy="129" r="2.5" fill="#d2a8ff"/><text x="558" y="133">Node.js</text>
-      <circle cx="546" cy="155" r="2.5" fill="#d2a8ff"/><text x="558" y="159">Django · DRF</text>
-      <circle cx="546" cy="181" r="2.5" fill="#d2a8ff"/><text x="558" y="185">FastAPI</text>
-      <circle cx="546" cy="207" r="2.5" fill="#d2a8ff"/><text x="558" y="211">MySQL · SQLite</text>
-      <circle cx="546" cy="233" r="2.5" fill="#d2a8ff"/><text x="558" y="237">CockroachDB</text>
-      <circle cx="546" cy="259" r="2.5" fill="#d2a8ff"/><text x="558" y="263">Apache Druid</text>
+      <circle cx="546" cy="129" r="2.5" fill="#c4b5fd"/><text x="558" y="133">Node.js</text>
+      <circle cx="546" cy="155" r="2.5" fill="#c4b5fd"/><text x="558" y="159">Django · DRF</text>
+      <circle cx="546" cy="181" r="2.5" fill="#c4b5fd"/><text x="558" y="185">FastAPI</text>
+      <circle cx="546" cy="207" r="2.5" fill="#c4b5fd"/><text x="558" y="211">MySQL · SQLite</text>
+      <circle cx="546" cy="233" r="2.5" fill="#c4b5fd"/><text x="558" y="237">CockroachDB</text>
+      <circle cx="546" cy="259" r="2.5" fill="#c4b5fd"/><text x="558" y="263">Apache Druid</text>
     </g>
   </g>
 
