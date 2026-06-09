@@ -227,31 +227,20 @@
 </div>
 
 <details open>
-<summary><b>🤖 Anthropic AI Certifications (17) — click any to verify</b></summary>
+<summary><b>🤖 Anthropic AI Certifications (17) — click any card to verify</b></summary>
 
 <br/>
 
-[`Claude 101`](https://verify.skilljar.com/c/j7jfnvgs94aj) · [`Claude Code 101`](https://verify.skilljar.com/c/8byo99i49kbs) · [`Claude Code in Action`](https://verify.skilljar.com/c/54mbn24tbipy) · [`Introduction to Claude Cowork`](https://verify.skilljar.com/c/p3586pqen568) · [`Building with the Claude API`](https://verify.skilljar.com/c/yy6bgip3fjiw) · [`Claude with Amazon Bedrock`](https://verify.skilljar.com/c/q7x5bc6qo78f) · [`Claude with Google Cloud Vertex AI`](https://verify.skilljar.com/c/x4puyp7qn2v7) · [`Introduction to Model Context Protocol`](https://verify.skilljar.com/c/os5baz5ovkn4) · [`Model Context Protocol: Advanced Topics`](https://verify.skilljar.com/c/o74mdizi5b56) · [`AI Fluency: Framework & Foundations`](https://verify.skilljar.com/c/ykakzz7ivwtr) · [`AI Capabilities and Limitations`](https://verify.skilljar.com/c/hobrx8z5zn7k) · [`AI Fluency for Educators`](https://verify.skilljar.com/c/j6hz6zcbgty3) · [`AI Fluency for Students`](https://verify.skilljar.com/c/e7nhd57xtson) · [`Teaching AI Fluency`](https://verify.skilljar.com/c/jpa3443fmrhn) · [`AI Fluency for Nonprofits`](https://verify.skilljar.com/c/toms4xkgh9a7) · [`Introduction to Agent Skills`](https://verify.skilljar.com/c/6tvrhxistwf2) · [`Introduction to Subagents`](https://verify.skilljar.com/c/m4hf6uxodihg)
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs-anthropic.svg" alt="Anthropic Certifications" width="100%"/>
 
 </details>
 
-<details>
-<summary><b>🎓 Other Professional Certifications (10) — click any to verify</b></summary>
+<details open>
+<summary><b>🎓 Other Professional Certifications (10) — click any card to verify</b></summary>
 
 <br/>
 
-| Certification | Issuer | Verify |
-|:---|:---|:---:|
-| Programming with JavaScript | Meta | [↗](https://www.coursera.org/account/accomplishments/certificate/7CHPEWSYGXD9) |
-| Version Control | Meta | [↗](https://www.coursera.org/account/accomplishments/certificate/2GZUY2SUXAVB) |
-| Introduction to Front-End Development | Meta | [↗](https://www.coursera.org/account/accomplishments/certificate/8DVW7S7CAFMH) |
-| Modern JavaScript: ES6 Basics | Coursera | [↗](https://coursera.org/share/e6eeaf6c1b164db0eea5ab20f68680b9) |
-| React.js Essentials Bootcamp | LetsUpgrade | [↗](https://verify.letsupgrade.in/certificate/LUERJSJUN123217) |
-| Regular Expressions in Python | Coursera | [↗](https://www.coursera.org/account/accomplishments/certificate/PJJXDR63PLZZ) |
-| Get Started with Figma | Coursera | [↗](https://www.coursera.org/account/accomplishments/certificate/TM6KQS57MASK) |
-| AI For Everyone | DeepLearning.AI | [↗](https://www.coursera.org/account/accomplishments/certificate/27YGB49FSF6Q) |
-| AWS Fundamentals: Going Cloud-Native | AWS | [↗](https://www.coursera.org/account/accomplishments/certificate/9KLJZPV5CWY6) |
-| Programming for Everybody (Python) | University of Michigan | [↗](https://www.coursera.org/account/accomplishments/certificate/V6RS8KL44Q5B) |
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs-others.svg" alt="Other Certifications" width="100%"/>
 
 </details>
 
