@@ -1,13 +1,13 @@
 <svg viewBox="0 0 850 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Thanks for visiting">
   <defs>
     <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#080808"/>
-      <stop offset="1" stop-color="#0a0a0a"/>
+      <stop offset="0" stop-color="#0a0516"/>
+      <stop offset="1" stop-color="#0a0618"/>
     </linearGradient>
     <linearGradient id="fwave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#d4d4d4"/>
-      <stop offset="0.5" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#8a8a8a"/>
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a855f7"/>
     </linearGradient>
     <clipPath id="fround"><rect width="850" height="150" rx="16"/></clipPath>
   </defs>
@@ -31,7 +31,7 @@
         dur="7s" repeatCount="indefinite"/>
     </path>
 
-    <text x="425" y="48" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="800" fill="#ffffff">Thanks for visiting! &#9889;</text>
+    <text x="425" y="48" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="800" fill="#22d3ee">Thanks for visiting! &#9889;</text>
     <text x="425" y="74" text-anchor="middle" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">Angular &#183; TypeScript &#183; Frontend Engineering</text>
   </g>
 </svg>
