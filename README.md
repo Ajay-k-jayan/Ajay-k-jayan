@@ -20,14 +20,6 @@
 
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/about.svg" alt="About Ajay K J" width="100%"/>
 
-<!-- contribution snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake-dark.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
 <!-- ====================== TECH ====================== -->
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-tech.svg" width="100%" alt="Tech Arsenal"/>
 
@@ -177,10 +169,25 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/projects.svg" alt="Featured Projects" width="100%"/>
   <br/><br/>
-  <a href="https://ajaykj.vercel.app/#projects"><img src="https://img.shields.io/badge/Aurex-View_↗-0a0618?style=for-the-badge&labelColor=0a0618" alt="Aurex"/></a>
-  <a href="https://moto365.club"><img src="https://img.shields.io/badge/InspektAI-Visit_↗-0a0618?style=for-the-badge&labelColor=0a0618" alt="InspektAI"/></a>
-  <a href="https://github.com/Ajay-k-jayan/portfolio-v2"><img src="https://img.shields.io/badge/Portfolio_v2-Code_↗-0a0618?style=for-the-badge&labelColor=0a0618" alt="Portfolio v2"/></a>
+  <a href="https://www.aurex.ai/"><img src="https://img.shields.io/badge/AurexAI-Live_↗-2dd4bf?style=for-the-badge&labelColor=0a0618" alt="AurexAI"/></a>
+  <a href="https://www.moto365.club/inspektai"><img src="https://img.shields.io/badge/InspektAI-Live_↗-a855f7?style=for-the-badge&labelColor=0a0618" alt="InspektAI"/></a>
+  <a href="https://github.com/Ajay-k-jayan/portfolio-v2"><img src="https://img.shields.io/badge/Portfolio_v2-Code_↗-22d3ee?style=for-the-badge&labelColor=0a0618" alt="Portfolio v2"/></a>
 </div>
+
+<details>
+<summary><b>📂 More projects on GitHub</b></summary>
+
+<br/>
+
+| Project | Stack | Repository |
+|:---|:---|:---:|
+| Portfolio (v1) | React · TypeScript | [↗](https://github.com/Ajay-k-jayan/portfolio) |
+| Blood Bank Management | PHP · MySQL | [↗](https://github.com/Ajay-k-jayan/Blood-Bank-Management) |
+| Alien Invasion Game | Python · Pygame | [↗](https://github.com/Ajay-k-jayan/Alien-invasion-game) |
+| Time Management | Web App | [↗](https://github.com/Ajay-k-jayan/Time-Management) |
+| Pet Store | HTML · CSS | [↗](https://github.com/Ajay-k-jayan/pets-store-html-project) |
+
+</details>
 
 <!-- ====================== ACHIEVEMENTS & CERTS ====================== -->
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-achieve.svg" width="100%" alt="Achievements & Certifications"/>
@@ -197,31 +204,31 @@
 </div>
 
 <details open>
-<summary><b>🤖 Anthropic AI Certifications (17)</b></summary>
+<summary><b>🤖 Anthropic AI Certifications (17) — click any to verify</b></summary>
 
 <br/>
 
-`Claude 101` · `Claude Code 101` · `Claude Code in Action` · `Introduction to Claude Cowork` · `Building with the Claude API` · `Claude with Amazon Bedrock` · `Claude with Google Cloud Vertex AI` · `Introduction to Model Context Protocol` · `Model Context Protocol Advanced Topics` · `AI Fluency: Framework & Foundations` · `AI Capabilities and Limitations` · `AI Fluency for Educators` · `AI Fluency for Students` · `Teaching AI Fluency` · `AI Fluency for Nonprofits` · `Introduction to Agent Skills` · `Introduction to Subagents`
+[`Claude 101`](https://verify.skilljar.com/c/j7jfnvgs94aj) · [`Claude Code 101`](https://verify.skilljar.com/c/8byo99i49kbs) · [`Claude Code in Action`](https://verify.skilljar.com/c/54mbn24tbipy) · [`Introduction to Claude Cowork`](https://verify.skilljar.com/c/p3586pqen568) · [`Building with the Claude API`](https://verify.skilljar.com/c/yy6bgip3fjiw) · [`Claude with Amazon Bedrock`](https://verify.skilljar.com/c/q7x5bc6qo78f) · [`Claude with Google Cloud Vertex AI`](https://verify.skilljar.com/c/x4puyp7qn2v7) · [`Introduction to Model Context Protocol`](https://verify.skilljar.com/c/os5baz5ovkn4) · [`Model Context Protocol: Advanced Topics`](https://verify.skilljar.com/c/o74mdizi5b56) · [`AI Fluency: Framework & Foundations`](https://verify.skilljar.com/c/ykakzz7ivwtr) · [`AI Capabilities and Limitations`](https://verify.skilljar.com/c/hobrx8z5zn7k) · [`AI Fluency for Educators`](https://verify.skilljar.com/c/j6hz6zcbgty3) · [`AI Fluency for Students`](https://verify.skilljar.com/c/e7nhd57xtson) · [`Teaching AI Fluency`](https://verify.skilljar.com/c/jpa3443fmrhn) · [`AI Fluency for Nonprofits`](https://verify.skilljar.com/c/toms4xkgh9a7) · [`Introduction to Agent Skills`](https://verify.skilljar.com/c/6tvrhxistwf2) · [`Introduction to Subagents`](https://verify.skilljar.com/c/m4hf6uxodihg)
 
 </details>
 
 <details>
-<summary><b>🎓 Other Professional Certifications (10)</b></summary>
+<summary><b>🎓 Other Professional Certifications (10) — click any to verify</b></summary>
 
 <br/>
 
-| Certification | Issuer |
-|:---|:---|
-| Programming with JavaScript | Meta |
-| Version Control | Meta |
-| Introduction to Front-End Development | Meta |
-| Modern JavaScript ES6 | Google |
-| React.js Essentials | LetsUpgrade |
-| Regular Expressions in Python | Coursera |
-| Get Started with Figma | Coursera |
-| AI For Everyone | DeepLearning.AI |
-| AWS Fundamentals | AWS |
-| Programming for Everybody (Python) | University of Michigan |
+| Certification | Issuer | Verify |
+|:---|:---|:---:|
+| Programming with JavaScript | Meta | [↗](https://www.coursera.org/account/accomplishments/certificate/7CHPEWSYGXD9) |
+| Version Control | Meta | [↗](https://www.coursera.org/account/accomplishments/certificate/2GZUY2SUXAVB) |
+| Introduction to Front-End Development | Meta | [↗](https://www.coursera.org/account/accomplishments/certificate/8DVW7S7CAFMH) |
+| Modern JavaScript: ES6 Basics | Coursera | [↗](https://coursera.org/share/e6eeaf6c1b164db0eea5ab20f68680b9) |
+| React.js Essentials Bootcamp | LetsUpgrade | [↗](https://verify.letsupgrade.in/certificate/LUERJSJUN123217) |
+| Regular Expressions in Python | Coursera | [↗](https://www.coursera.org/account/accomplishments/certificate/PJJXDR63PLZZ) |
+| Get Started with Figma | Coursera | [↗](https://www.coursera.org/account/accomplishments/certificate/TM6KQS57MASK) |
+| AI For Everyone | DeepLearning.AI | [↗](https://www.coursera.org/account/accomplishments/certificate/27YGB49FSF6Q) |
+| AWS Fundamentals: Going Cloud-Native | AWS | [↗](https://www.coursera.org/account/accomplishments/certificate/9KLJZPV5CWY6) |
+| Programming for Everybody (Python) | University of Michigan | [↗](https://www.coursera.org/account/accomplishments/certificate/V6RS8KL44Q5B) |
 
 </details>
 
