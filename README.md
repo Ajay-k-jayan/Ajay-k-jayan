@@ -23,67 +23,93 @@
 <!-- ====================== TECH ====================== -->
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-tech.svg" width="100%" alt="Tech Arsenal"/>
 
-**Languages**
+**Frontend** — `click any badge for official docs`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/documentation/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Angular](https://img.shields.io/badge/Angular_v11--19-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/overview)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/docs)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/guide/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)](https://threejs.org/docs/)
 
-**Frameworks**
+**Core & Architecture**
 
-![Angular](https://img.shields.io/badge/Angular_v11--19-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=flat-square&logo=angular&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+[![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)](https://rxjs.dev/guide/overview)
+[![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)](https://ngrx.io/docs)
+[![Reactive Forms](https://img.shields.io/badge/Reactive_Forms-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev/guide/forms/reactive-forms)
+[![Lazy Loading](https://img.shields.io/badge/Lazy_Loading-1a1a2e?style=flat-square)](https://angular.dev/guide/routing/lazy-loading)
+[![Reusable Components](https://img.shields.io/badge/Reusable_Components-1a1a2e?style=flat-square)](https://angular.dev/guide/components)
+[![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-1a1a2e?style=flat-square)](https://micro-frontends.org/)
+[![BEM](https://img.shields.io/badge/BEM-1a1a2e?style=flat-square)](https://getbem.com/naming/)
+[![Atomic Design](https://img.shields.io/badge/Atomic_Design-1a1a2e?style=flat-square)](https://atomicdesign.bradfrost.com/chapter-2/)
+[![Design Systems](https://img.shields.io/badge/Design_Systems-1a1a2e?style=flat-square)](https://m3.material.io/foundations)
 
-**Cloud & DevOps**
+**UI & Visualization**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+[![Angular Material](https://img.shields.io/badge/Angular_Material-757575?style=flat-square&logo=angular&logoColor=white)](https://material.angular.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/docs)
+[![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)](https://d3js.org/)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/docs)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/developers)
+[![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)](https://helpx.adobe.com/support/xd.html)
 
-**Databases**
+**API & Integration**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white)
-![Apache Druid](https://img.shields.io/badge/Apache_Druid-29F1FB?style=flat-square&logo=apachedruid&logoColor=black)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+[![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/learn/)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)](https://swagger.io/specification/)
 
-**Tools**
+**Backend & Databases**
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-1a1a2e?style=flat-square&logoColor=white)
-![Reactive Forms](https://img.shields.io/badge/Reactive_Forms-1a1a2e?style=flat-square&logoColor=white)
-![Lazy Loading](https://img.shields.io/badge/Lazy_Loading-1a1a2e?style=flat-square&logoColor=white)
-![MVC Architecture](https://img.shields.io/badge/MVC_Architecture-1a1a2e?style=flat-square&logoColor=white)
-![BEM Methodology](https://img.shields.io/badge/BEM_Methodology-1a1a2e?style=flat-square&logoColor=white)
-![Design Systems](https://img.shields.io/badge/Design_Systems-1a1a2e?style=flat-square&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-1a1a2e?style=flat-square&logoColor=white)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/docs.php)
+[![Django](https://img.shields.io/badge/Python_(Django)-092E20?style=flat-square&logo=django&logoColor=white)](https://docs.djangoproject.com/)
+[![Django REST](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)](https://www.django-rest-framework.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/docs.html)
+[![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white)](https://www.cockroachlabs.com/docs/)
+[![Apache Druid](https://img.shields.io/badge/Apache_Druid-29F1FB?style=flat-square&logo=apachedruid&logoColor=black)](https://druid.apache.org/docs/latest/design/)
+
+**Tools & Platforms**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+[![DevOps](https://img.shields.io/badge/DevOps-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/what-is/devops/)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://support.atlassian.com/jira-software-cloud/)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://swagger.io/docs/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://learning.postman.com/docs/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/docs)
+[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/workbench/en/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/en-us/visualstudio/)
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/concepts/)
+
+**AI Tools**
+
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://docs.github.com/en/copilot)
+[![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.com/docs)
+[![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://docs.anthropic.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)](https://help.openai.com/)
+
+**Quality, Scale & UX**
+
+[![Performance](https://img.shields.io/badge/Performance-1a1a2e?style=flat-square)](https://web.dev/learn/performance/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/docs/latest/)
+[![Testing](https://img.shields.io/badge/Testing-1a1a2e?style=flat-square)](https://angular.dev/guide/testing)
+[![Enterprise Scale](https://img.shields.io/badge/Enterprise_Scale-1a1a2e?style=flat-square)](https://angular.dev/best-practices)
+[![i18n](https://img.shields.io/badge/i18n-1a1a2e?style=flat-square)](https://angular.dev/guide/i18n)
+[![Accessibility](https://img.shields.io/badge/Accessibility-1a1a2e?style=flat-square)](https://www.w3.org/WAI/WCAG22/quickref/)
+
+**Methodology**
+
+[![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=atlassian&logoColor=white)](https://www.atlassian.com/agile)
+[![Waterfall](https://img.shields.io/badge/Waterfall-1a1a2e?style=flat-square)](https://en.wikipedia.org/wiki/Waterfall_model)
 
 <!-- ====================== ANALYTICS ====================== -->
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-stats.svg" width="100%" alt="GitHub Analytics"/>
