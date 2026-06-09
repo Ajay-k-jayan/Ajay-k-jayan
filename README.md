@@ -6,7 +6,7 @@
 <!-- ====================== CONNECT / SOCIAL BAR ====================== -->
 <div align="center">
   <a href="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social.html">
-    <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social-preview.svg" alt="Connect with Ajay K J" width="100%"/>
+    <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social-preview.svg" alt="Connect with Ajay K J" width="540"/>
   </a>
 </div>
 
