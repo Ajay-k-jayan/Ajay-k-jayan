@@ -1,0 +1,52 @@
+<svg viewBox="0 0 760 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Connect with Ajay K J">
+  <defs>
+    <radialGradient id="gA" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0.35"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gB" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#a855f7" stop-opacity="0.30"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect width="760" height="120" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="760" height="120" fill="#07091a"/>
+    <ellipse cx="180" cy="60" rx="220" ry="90" fill="url(#gA)"/>
+    <ellipse cx="580" cy="60" rx="220" ry="90" fill="url(#gB)"/>
+
+    <!-- Phone -->
+    <rect x="20" y="24" width="72" height="72" rx="18" fill="rgba(16,60,40,0.7)" stroke="#22c55e" stroke-width="1.5"/>
+    <g transform="translate(40,44)" stroke="#22c55e" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M18 13.92v2.5a1.67 1.67 0 0 1-1.82 1.67 16.49 16.49 0 0 1-7.19-2.56 16.25 16.25 0 0 1-5-5 16.49 16.49 0 0 1-2.56-7.22A1.67 1.67 0 0 1 3.1 1h2.5a1.67 1.67 0 0 1 1.67 1.43c.1.8.3 1.59.58 2.34a1.67 1.67 0 0 1-.38 1.76l-1.06 1.06a13.33 13.33 0 0 0 4.58 4.58l1.06-1.06a1.67 1.67 0 0 1 1.76-.38c.75.28 1.54.48 2.34.58A1.67 1.67 0 0 1 17.5 13z"/></g>
+    <text x="56" y="108" text-anchor="middle" font-family="'Fira Code',monospace" font-size="10" fill="#22c55e" opacity="0.85">Phone</text>
+
+    <!-- Email -->
+    <rect x="108" y="24" width="72" height="72" rx="18" fill="rgba(60,20,20,0.7)" stroke="#ef4444" stroke-width="1.5"/>
+    <g transform="translate(128,44)" stroke="#ef4444" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="0" y="2" width="22" height="16" rx="2"/><path d="m22 5-8.97 5.7a1.62 1.62 0 0 1-2.06 0L0 5"/></g>
+    <text x="144" y="108" text-anchor="middle" font-family="'Fira Code',monospace" font-size="10" fill="#ef4444" opacity="0.85">Email</text>
+
+    <!-- WhatsApp -->
+    <rect x="196" y="24" width="72" height="72" rx="18" fill="rgba(10,50,20,0.7)" stroke="#25d366" stroke-width="1.5"/>
+    <g transform="translate(216,44)" stroke="#25d366" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M19 9.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L1 19l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></g>
+    <text x="232" y="108" text-anchor="middle" font-family="'Fira Code',monospace" font-size="10" fill="#25d366" opacity="0.85">WhatsApp</text>
+
+    <!-- Instagram -->
+    <rect x="284" y="24" width="72" height="72" rx="18" fill="rgba(60,15,40,0.7)" stroke="#e1306c" stroke-width="1.5"/>
+    <g transform="translate(304,44)" stroke="#e1306c" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="1" y="1" width="20" height="20" rx="5"/><circle cx="11" cy="11" r="4"/><circle cx="16.5" cy="5.5" r="0.7" fill="#e1306c" stroke="none"/></g>
+    <text x="320" y="108" text-anchor="middle" font-family="'Fira Code',monospace" font-size="10" fill="#e1306c" opacity="0.85">Instagram</text>
+
+    <!-- GitHub -->
+    <rect x="372" y="24" width="72" height="72" rx="18" fill="rgba(30,20,60,0.7)" stroke="#a855f7" stroke-width="1.5"/>
+    <g transform="translate(392,44)" stroke="#a855f7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M13 20v-4a4 4 0 0 0-1-3c3 0 6-2 6-5.5A4 4 0 0 0 17 4.5a4 4 0 0 0 0-3s-1 0-3 1.5a13.38 13.38 0 0 0-7 0C5 1.5 4 1.5 4 1.5a4 4 0 0 0 0 3A5.4 5.4 0 0 0 3 7.5c0 3.5 3 5.5 6 5.5a3 3 0 0 0-.85 1.65 3 3 0 0 0-.15 1.35v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></g>
+    <text x="408" y="108" text-anchor="middle" font-family="'Fira Code',monospace" font-size="10" fill="#a855f7" opacity="0.85">GitHub</text>
+
+    <!-- LinkedIn -->
+    <rect x="460" y="24" width="72" height="72" rx="18" fill="rgba(8,28,55,0.7)" stroke="#0ea5e9" stroke-width="1.5"/>
+    <g transform="translate(480,44)" stroke="#0ea5e9" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M14 6a5 5 0 0 1 5 5v7h-4v-7a2 2 0 0 0-4 0v7H7v-7a5 5 0 0 1 5-5z"/><rect x="1" y="7" width="4" height="12"/><circle cx="3" cy="3" r="2"/></g>
+    <text x="496" y="108" text-anchor="middle" font-family="'Fira Code',monospace" font-size="10" fill="#0ea5e9" opacity="0.85">LinkedIn</text>
+
+    <!-- X/Twitter -->
+    <rect x="548" y="24" width="72" height="72" rx="18" fill="rgba(5,20,35,0.7)" stroke="#38bdf8" stroke-width="1.5"/>
+    <g transform="translate(568,44)" stroke="#38bdf8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M2 2l18 18M2 20 20 2"/></g>
+    <text x="584" y="108" text-anchor="middle" font-family="'Fira Code',monospace" font-size="10" fill="#38bdf8" opacity="0.85">Twitter / X</text>
+
+    <!-- Portfolio -->
+    <rect x="636" y="24" width="72" height="72" rx="18" fill="rgba(10,30,30,0.7)" stroke="#2dd4bf" stroke-width="1.5"/>
+    <g transform="translate(656,44)" stroke="#2dd4bf" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M11 1L1 6l10 5 10-5-10-5z"/><path d="M1 16l10 5 10-5"/><path d="M1 11l10 5 10-5"/></g>
+    <text x="672" y="108" text-anchor="middle" font-family="'Fira Code',monospace" font-size="10" fill="#2dd4bf" opacity="0.85">Portfolio</text>
+  </g>
+</svg>
