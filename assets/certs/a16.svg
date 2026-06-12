@@ -1,0 +1,9 @@
+<svg viewBox="0 0 300 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Intro to Agent Skills">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a20"/><stop offset="1" stop-color="#08060f"/></linearGradient></defs>
+  <rect x="1" y="1" width="298" height="54" rx="11" fill="url(#g)" stroke="#22d3ee" stroke-opacity="0.4"/>
+  <rect x="1" y="1" width="3.5" height="54" rx="1.75" fill="#22d3ee"/>
+  <circle cx="22" cy="28" r="7" fill="#22d3ee" opacity="0.22"/>
+  <circle cx="22" cy="28" r="3" fill="#22d3ee"/>
+  <text x="40" y="25" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Intro to Agent Skills</text>
+  <text x="40" y="43" font-family="'Fira Code',monospace" font-size="10.5" fill="#22d3ee">Anthropic  &#8599;</text>
+</svg>
