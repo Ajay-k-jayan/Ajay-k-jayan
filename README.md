@@ -120,9 +120,6 @@
 
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-k-jayan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b061c&title_color=2dd4bf&icon_color=a855f7&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-k-jayan&layout=compact&theme=github_dark&hide_border=true&bg_color=0b061c&title_color=2dd4bf&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
   </a>
 </div>
