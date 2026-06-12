@@ -5,9 +5,13 @@
 
 <!-- ====================== CONNECT / SOCIAL BAR ====================== -->
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social.html">
-    <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social-preview.svg" alt="Connect with Ajay K J" width="400"/>
-  </a>
+  <a href="tel:+918289917044" title="Call +91 82899 17044"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/phone.svg" height="74" alt="Phone"/></a>&nbsp;
+  <a href="mailto:ajaykj2000@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/email.svg" height="74" alt="Email"/></a>&nbsp;
+  <a href="https://wa.me/918289917044" title="WhatsApp"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/whatsapp.svg" height="74" alt="WhatsApp"/></a>&nbsp;
+  <a href="https://www.instagram.com/aj_ay.kj/" title="Instagram"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/instagram.svg" height="74" alt="Instagram"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ajay-k-jayan/" title="LinkedIn"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/linkedin.svg" height="74" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://ajaykj.vercel.app/" title="Portfolio"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/portfolio.svg" height="74" alt="Portfolio"/></a>&nbsp;
+  <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf" title="Resume"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/resume.svg" height="74" alt="Resume"/></a>
 </div>
 
 <!-- ====================== HIGHLIGHTS ====================== -->
