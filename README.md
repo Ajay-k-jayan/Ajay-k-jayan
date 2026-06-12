@@ -115,20 +115,8 @@
 [![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=atlassian&logoColor=white)](https://www.atlassian.com/agile)
 [![Waterfall](https://img.shields.io/badge/Waterfall-1a1a2e?style=flat-square)](https://en.wikipedia.org/wiki/Waterfall_model)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/constellation.svg" alt="Skill constellation" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/orbit.svg" alt="Tech orbit" width="100%"/>
-</div>
-
 <!-- ====================== ANALYTICS ====================== -->
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-stats.svg" width="100%" alt="GitHub Analytics"/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/stats.svg" alt="GitHub stats" width="100%"/>
-</div>
 
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
@@ -237,7 +225,6 @@
 
 <br/>
 
-
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="6" align="center">
@@ -251,14 +238,12 @@
 
 </div>
 
-
 </details>
 
 <details open>
 <summary><b>🎓 Other Professional Certifications (10) — click any card to verify</b></summary>
 
 <br/>
-
 
 <div align="center">
 
@@ -270,7 +255,6 @@
 </table>
 
 </div>
-
 
 </details>
 
