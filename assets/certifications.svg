@@ -1,18 +1,31 @@
-<svg viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Certifications overview">
-  <defs><linearGradient id="ccard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a20"/><stop offset="1" stop-color="#08060f"/></linearGradient></defs>
-  <rect width="1000" height="120" rx="16" fill="url(#ccard)" stroke="#2dd4bf" stroke-opacity="0.18"/>
-  <text x="32" y="40" font-family="'Fira Code',monospace" font-size="14" font-weight="700" fill="#8b8ba7">// 27 verified credentials</text>
-  <line x1="32" y1="54" x2="968" y2="54" stroke="#2dd4bf" stroke-opacity="0.15"/>
-  <text x="106.0" y="92" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="30" font-weight="800" fill="#22d3ee">17</text>
-  <text x="106.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#e2e8f0">Anthropic AI</text><line x1="172" y1="68" x2="172" y2="104" stroke="#2dd4bf" stroke-opacity="0.12"/>
-  <text x="262.0" y="92" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="30" font-weight="800" fill="#a855f7">3</text>
-  <text x="262.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#e2e8f0">Meta</text><line x1="328" y1="68" x2="328" y2="104" stroke="#2dd4bf" stroke-opacity="0.12"/>
-  <text x="418.0" y="92" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="30" font-weight="800" fill="#2dd4bf">4</text>
-  <text x="418.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#e2e8f0">Coursera</text><line x1="484" y1="68" x2="484" y2="104" stroke="#2dd4bf" stroke-opacity="0.12"/>
-  <text x="574.0" y="92" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="30" font-weight="800" fill="#f0883e">1</text>
-  <text x="574.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#e2e8f0">AWS</text><line x1="640" y1="68" x2="640" y2="104" stroke="#2dd4bf" stroke-opacity="0.12"/>
-  <text x="730.0" y="92" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="30" font-weight="800" fill="#e3b341">1</text>
-  <text x="730.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#e2e8f0">DeepLearning.AI</text><line x1="796" y1="68" x2="796" y2="104" stroke="#2dd4bf" stroke-opacity="0.12"/>
-  <text x="886.0" y="92" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="30" font-weight="800" fill="#c4b5fd">1</text>
-  <text x="886.0" y="110" text-anchor="middle" font-family="'Segoe UI',sans-serif" font-size="11" fill="#e2e8f0">Michigan</text>
+<svg viewBox="0 0 1000 132" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Certifications overview">
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a20"/><stop offset="1" stop-color="#070510"/></linearGradient>
+    <linearGradient id="num" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#5eead4"/></linearGradient>
+    <filter id="ng" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1000" height="132" rx="16" fill="url(#cbg)" stroke="#2dd4bf" stroke-opacity="0.2"/>
+  <rect x="0" y="0" width="1000" height="4" rx="2" fill="#2dd4bf" opacity="0.5"/>
+  <text x="32" y="42" font-family="'Fira Code',monospace" font-size="14" font-weight="700" fill="#8b8ba7">// 27 verified credentials</text>
+  <circle cx="225" cy="37" r="3.5" fill="#22d3ee"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
+  <line x1="32" y1="58" x2="968" y2="58" stroke="#2dd4bf" stroke-opacity="0.14"/>
+  <g font-family="'Segoe UI',sans-serif">
+    <text x="100" y="104" text-anchor="middle" font-size="34" font-weight="800" fill="url(#num)" filter="url(#ng)">17</text>
+    <text x="100" y="122" text-anchor="middle" font-size="11" fill="#cbd5e1">Anthropic AI</text>
+    <line x1="180" y1="74" x2="180" y2="112" stroke="#2dd4bf" stroke-opacity="0.12"/>
+    <text x="270" y="104" text-anchor="middle" font-size="34" font-weight="800" fill="#a855f7">3</text>
+    <text x="270" y="122" text-anchor="middle" font-size="11" fill="#cbd5e1">Meta</text>
+    <line x1="350" y1="74" x2="350" y2="112" stroke="#2dd4bf" stroke-opacity="0.12"/>
+    <text x="440" y="104" text-anchor="middle" font-size="34" font-weight="800" fill="#2dd4bf">4</text>
+    <text x="440" y="122" text-anchor="middle" font-size="11" fill="#cbd5e1">Coursera</text>
+    <line x1="520" y1="74" x2="520" y2="112" stroke="#2dd4bf" stroke-opacity="0.12"/>
+    <text x="610" y="104" text-anchor="middle" font-size="34" font-weight="800" fill="#f0883e">1</text>
+    <text x="610" y="122" text-anchor="middle" font-size="11" fill="#cbd5e1">AWS</text>
+    <line x1="690" y1="74" x2="690" y2="112" stroke="#2dd4bf" stroke-opacity="0.12"/>
+    <text x="780" y="104" text-anchor="middle" font-size="34" font-weight="800" fill="#e3b341">1</text>
+    <text x="780" y="122" text-anchor="middle" font-size="11" fill="#cbd5e1">DeepLearning.AI</text>
+    <line x1="860" y1="74" x2="860" y2="112" stroke="#2dd4bf" stroke-opacity="0.12"/>
+    <text x="925" y="104" text-anchor="middle" font-size="34" font-weight="800" fill="#c4b5fd">1</text>
+    <text x="925" y="122" text-anchor="middle" font-size="11" fill="#cbd5e1">Michigan</text>
+  </g>
 </svg>
