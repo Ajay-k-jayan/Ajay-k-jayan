@@ -16,16 +16,16 @@
 
 <!-- ====================== HIGHLIGHTS ====================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/highlights.svg" alt="Career highlights" width="100%"/>
+  <a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/highlights.svg" alt="Career highlights" width="100%"/></a>
 </div>
 
 <!-- ====================== ABOUT ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-about.svg" width="100%" alt="About Me"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-about.svg" width="100%" alt="About Me"/></a>
 
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/about.svg" alt="About Ajay K J" width="100%"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/about.svg" alt="About Ajay K J" width="100%"/></a>
 
 <!-- ====================== TECH ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-tech.svg" width="100%" alt="Tech Arsenal"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-tech.svg" width="100%" alt="Tech Arsenal"/></a>
 
 **Frontend** — `click any badge for official docs`
 
@@ -116,7 +116,7 @@
 [![Waterfall](https://img.shields.io/badge/Waterfall-1a1a2e?style=flat-square)](https://en.wikipedia.org/wiki/Waterfall_model)
 
 <!-- ====================== ANALYTICS ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-stats.svg" width="100%" alt="GitHub Analytics"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-stats.svg" width="100%" alt="GitHub Analytics"/></a>
 
 <div align="center">
   <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
@@ -131,22 +131,22 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-k-jayan&theme=tokyo-night&bg_color=0b061c&color=2dd4bf&line=a855f7&point=22d3ee&area=true&hide_border=true" alt="Activity Graph"/>
+  <a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay-k-jayan&theme=tokyo-night&bg_color=0b061c&color=2dd4bf&line=a855f7&point=22d3ee&area=true&hide_border=true" alt="Activity Graph"/></a>
 </div>
 
 <div align="center">
-  <picture>
+  <a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake.svg"/>
     <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake-dark.svg" width="100%"/>
-  </picture>
+  </picture></a>
 </div>
 
 <!-- ====================== EXPERIENCE ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-exp.svg" width="100%" alt="Experience"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-exp.svg" width="100%" alt="Experience"/></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/experience.svg" alt="Experience timeline" width="100%"/>
+  <a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/experience.svg" alt="Experience timeline" width="100%"/></a>
 </div>
 
 <details>
@@ -178,10 +178,10 @@
 </details>
 
 <!-- ====================== PROJECTS ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-projects.svg" width="100%" alt="Featured Projects"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-projects.svg" width="100%" alt="Featured Projects"/></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/projects.svg" alt="Featured Projects" width="100%"/>
+  <a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/projects.svg" alt="Featured Projects" width="100%"/></a>
   <br/><br/>
   <a href="https://www.aurex.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AurexAI-Live_↗-2dd4bf?style=for-the-badge&labelColor=0a0618" alt="AurexAI"/></a>
   <a href="https://www.moto365.club/inspektai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/InspektAI-Live_↗-a855f7?style=for-the-badge&labelColor=0a0618" alt="InspektAI"/></a>
@@ -204,17 +204,17 @@
 </details>
 
 <!-- ====================== ACHIEVEMENTS (awards only) ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-achieve.svg" width="100%" alt="Achievements"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-achieve.svg" width="100%" alt="Achievements"/></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/achievements.svg" alt="Awards" width="100%"/>
+  <a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/achievements.svg" alt="Awards" width="100%"/></a>
 </div>
 
 <!-- ====================== CERTIFICATIONS ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-certs.svg" width="100%" alt="Certifications"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-certs.svg" width="100%" alt="Certifications"/></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certifications.svg" alt="Certifications overview" width="100%"/>
+  <a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certifications.svg" alt="Certifications overview" width="100%"/></a>
 </div>
 
 <details open>
@@ -256,10 +256,10 @@
 </details>
 
 <!-- ====================== EDUCATION & LEARNING ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-edu.svg" width="100%" alt="Education & Learning"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-edu.svg" width="100%" alt="Education & Learning"/></a>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/education.svg" alt="Education" width="100%"/>
+  <a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/education.svg" alt="Education" width="100%"/></a>
 </div>
 
 ```text
@@ -280,4 +280,4 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/footer.svg" alt="Thanks for visiting" width="100%"/>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/footer.svg" alt="Thanks for visiting" width="100%"/></a>
