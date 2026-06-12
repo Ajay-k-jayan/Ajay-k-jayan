@@ -154,49 +154,34 @@
 <!-- ====================== EXPERIENCE ====================== -->
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-exp.svg" width="100%" alt="Experience"/>
 
-<details open>
-<summary><b>Senior Software Engineer</b> · Beinex Consultancy · <i>Sep 2025 – Present</i> · Kochi, India</summary>
-
-> `Angular v16–19` `Micro Frontends` `RxJS` `TypeScript` `CI/CD` `Scrum`
-
-- Led a cross-functional team of **8 members** spanning frontend, backend, and QA engineering.
-- Architected scalable frontend systems using Angular (v16–19) and micro frontend architecture.
-- Improved performance through optimized state management and change detection strategies.
-- Acted as Scrum Master — owning sprint planning, estimations, and Agile execution while establishing structured code-review practices.
-
-</details>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/experience.svg" alt="Experience timeline" width="100%"/>
+</div>
 
 <details>
-<summary><b>Software Engineer</b> · Beinex Consultancy · <i>Sep 2023 – Sep 2025</i> · Kochi, India</summary>
+<summary><b>📋 Full role details & responsibilities</b></summary>
 
-> `Angular` `RxJS` `WebSockets` `i18n` `REST APIs`
+<br/>
 
-- Developed scalable Angular applications powering workflow-driven enterprise systems with large datasets.
-- Built dynamic report builders with configurable tables and optimized rendering performance.
+**Senior Software Engineer** · Sep 2025 – Present
+- Led a cross-functional team of **8 members** across frontend, backend, and QA.
+- Architected scalable frontend systems using Angular (v16–19) and micro-frontend architecture.
+- Improved performance through optimized state management and change detection.
+- Acted as Scrum Master — sprint planning, estimations, Agile execution, structured code reviews.
+
+**Software Engineer** · Sep 2023 – Sep 2025
+- Developed scalable Angular apps for workflow-driven enterprise systems with large datasets.
+- Built dynamic report builders with configurable tables and optimized rendering.
 - Implemented virtual scrolling and pagination for efficient large-data handling.
-- Delivered real-time WebSocket features plus i18n multilingual support — earning the **Beinex Excelencia Award (2024)**.
+- Delivered real-time WebSocket features + i18n — earning the **Beinex Excelencia Award (2024)**.
 
-</details>
-
-<details>
-<summary><b>Associate Software Engineer</b> · Beinex Consultancy · <i>Sep 2022 – Sep 2023</i> · Kochi, India</summary>
-
-> `Angular` `D3.js` `Reactive Forms` `Lazy Loading` `CSS Grid`
-
+**Associate Software Engineer** · Sep 2022 – Sep 2023
 - Built interactive dashboards using Angular and D3.js for enterprise analytics.
-- Created reusable UI components, improving scalability and development efficiency.
-- Implemented complex reactive forms and validation logic.
+- Created reusable UI components; implemented complex reactive forms and validation.
 - Optimized performance via lazy loading and modern CSS (Flexbox & CSS Grid).
 
-</details>
-
-<details>
-<summary><b>Full Stack Developer Intern</b> · Beinex Consultancy · <i>Jun 2022 – Sep 2022</i> · Kochi, India</summary>
-
-> `Angular` `Django` `REST APIs`
-
-- Built web applications using Angular and Django.
-- Developed RESTful APIs for seamless frontend–backend integration.
+**Full Stack Developer Intern** · Jun 2022 – Sep 2022
+- Built web applications using Angular and Django; developed RESTful APIs.
 - Recognized as **Star Performer** for performance and contribution.
 
 </details>
@@ -275,11 +260,7 @@
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-edu.svg" width="100%" alt="Education & Learning"/>
 
 <div align="center">
-
-| Degree | Institution | Year |
-|:---|:---|:---:|
-| Diploma in Computer Engineering | Government Polytechnic College, Perumbavoor | 2018 – 2021 |
-
+  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/education.svg" alt="Education" width="100%"/>
 </div>
 
 ```text
