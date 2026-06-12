@@ -219,12 +219,15 @@
 
 </details>
 
-<!-- ====================== ACHIEVEMENTS & CERTS ====================== -->
-<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-achieve.svg" width="100%" alt="Achievements & Certifications"/>
+<!-- ====================== ACHIEVEMENTS (awards only) ====================== -->
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-achieve.svg" width="100%" alt="Achievements"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/achievements.svg" alt="Achievements" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/achievements.svg" alt="Awards" width="100%"/>
 </div>
+
+<!-- ====================== CERTIFICATIONS ====================== -->
+<img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-certs.svg" width="100%" alt="Certifications"/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certifications.svg" alt="Certifications overview" width="100%"/>
