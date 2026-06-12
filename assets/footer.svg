@@ -32,6 +32,5 @@
     </path>
 
     <text x="425" y="48" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="800" fill="#22d3ee">Thanks for visiting! &#9889;</text>
-    <text x="425" y="74" text-anchor="middle" font-family="'Fira Code', monospace" font-size="13" fill="#8b949e">Angular &#183; TypeScript &#183; Frontend Engineering</text>
   </g>
 </svg>
