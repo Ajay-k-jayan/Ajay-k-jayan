@@ -138,12 +138,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ajay-k-jayan&theme=algolia&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-  </a>
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/output/github-snake.svg"/>
