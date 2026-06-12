@@ -1,17 +1,17 @@
 <!-- ====================== HERO BANNER (monochrome) ====================== -->
-<a href="https://ajaykj.vercel.app/">
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/banner.svg" alt="Ajay K J — Senior Software Engineer" width="100%"/>
 </a>
 
 <!-- ====================== CONNECT / SOCIAL BAR ====================== -->
 <div align="center">
-  <a href="tel:+918289917044" title="Call +91 82899 17044"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/phone.svg" height="74" alt="Phone"/></a>&nbsp;
-  <a href="mailto:ajaykj2000@gmail.com" title="Email"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/email.svg" height="74" alt="Email"/></a>&nbsp;
-  <a href="https://wa.me/918289917044" title="WhatsApp"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/whatsapp.svg" height="74" alt="WhatsApp"/></a>&nbsp;
-  <a href="https://www.instagram.com/aj_ay.kj/" title="Instagram"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/instagram.svg" height="74" alt="Instagram"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ajay-k-jayan/" title="LinkedIn"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/linkedin.svg" height="74" alt="LinkedIn"/></a>&nbsp;
-  <a href="https://ajaykj.vercel.app/" title="Portfolio"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/portfolio.svg" height="74" alt="Portfolio"/></a>&nbsp;
-  <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf" title="Resume"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/resume.svg" height="74" alt="Resume"/></a>
+  <a href="tel:+918289917044" title="Call +91 82899 17044" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/phone.svg" height="74" alt="Phone"/></a>&nbsp;
+  <a href="mailto:ajaykj2000@gmail.com" title="Email" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/email.svg" height="74" alt="Email"/></a>&nbsp;
+  <a href="https://wa.me/918289917044" title="WhatsApp" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/whatsapp.svg" height="74" alt="WhatsApp"/></a>&nbsp;
+  <a href="https://www.instagram.com/aj_ay.kj/" title="Instagram" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/instagram.svg" height="74" alt="Instagram"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ajay-k-jayan/" title="LinkedIn" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/linkedin.svg" height="74" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://ajaykj.vercel.app/" title="Portfolio" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/portfolio.svg" height="74" alt="Portfolio"/></a>&nbsp;
+  <a href="https://ajaykj.vercel.app/Ajay_KJ.pdf" title="Resume" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/social/resume.svg" height="74" alt="Resume"/></a>
 </div>
 
 <!-- ====================== HIGHLIGHTS ====================== -->
@@ -119,16 +119,16 @@
 <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/header-stats.svg" width="100%" alt="GitHub Analytics"/>
 
 <div align="center">
-  <a href="https://github.com/Ajay-k-jayan">
+  <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ajay-k-jayan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0b061c&title_color=2dd4bf&icon_color=a855f7&text_color=c9d1d9&border_radius=10&cache_seconds=86400" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/Ajay-k-jayan">
+  <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-k-jayan&layout=compact&theme=github_dark&hide_border=true&bg_color=0b061c&title_color=2dd4bf&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=86400" alt="Top Languages"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ajay-k-jayan">
+  <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=Ajay-k-jayan&theme=tokyonight-duo&hide_border=true&background=0B061C&ring=2DD4BF&fire=A855F7&currStreakLabel=2DD4BF&sideLabels=22D3EE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0B061C&border_radius=10" alt="GitHub Streak"/>
   </a>
 </div>
@@ -138,7 +138,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ajay-k-jayan">
+  <a href="https://github.com/Ajay-k-jayan" target="_blank" rel="noopener noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=Ajay-k-jayan&theme=algolia&no-frame=true&row=1&column=7&margin-w=4" alt="Trophies"/>
   </a>
 </div>
@@ -207,9 +207,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/projects.svg" alt="Featured Projects" width="100%"/>
   <br/><br/>
-  <a href="https://www.aurex.ai/"><img src="https://img.shields.io/badge/AurexAI-Live_↗-2dd4bf?style=for-the-badge&labelColor=0a0618" alt="AurexAI"/></a>
-  <a href="https://www.moto365.club/inspektai"><img src="https://img.shields.io/badge/InspektAI-Live_↗-a855f7?style=for-the-badge&labelColor=0a0618" alt="InspektAI"/></a>
-  <a href="https://github.com/Ajay-k-jayan/portfolio-v2"><img src="https://img.shields.io/badge/Portfolio_v2-Code_↗-22d3ee?style=for-the-badge&labelColor=0a0618" alt="Portfolio v2"/></a>
+  <a href="https://www.aurex.ai/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AurexAI-Live_↗-2dd4bf?style=for-the-badge&labelColor=0a0618" alt="AurexAI"/></a>
+  <a href="https://www.moto365.club/inspektai" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/InspektAI-Live_↗-a855f7?style=for-the-badge&labelColor=0a0618" alt="InspektAI"/></a>
+  <a href="https://github.com/Ajay-k-jayan/portfolio-v2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio_v2-Code_↗-22d3ee?style=for-the-badge&labelColor=0a0618" alt="Portfolio v2"/></a>
 </div>
 
 <details>
@@ -247,12 +247,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://verify.skilljar.com/c/j7jfnvgs94aj" title="Claude 101"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a01.svg" width="290" alt="Claude 101"/></a> <a href="https://verify.skilljar.com/c/8byo99i49kbs" title="Claude Code 101"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a02.svg" width="290" alt="Claude Code 101"/></a> <a href="https://verify.skilljar.com/c/54mbn24tbipy" title="Claude Code in Action"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a03.svg" width="290" alt="Claude Code in Action"/></a>
-  <a href="https://verify.skilljar.com/c/p3586pqen568" title="Introduction to Claude Cowork"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a04.svg" width="290" alt="Introduction to Claude Cowork"/></a> <a href="https://verify.skilljar.com/c/yy6bgip3fjiw" title="Building with the Claude API"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a05.svg" width="290" alt="Building with the Claude API"/></a> <a href="https://verify.skilljar.com/c/q7x5bc6qo78f" title="Claude with Amazon Bedrock"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a06.svg" width="290" alt="Claude with Amazon Bedrock"/></a>
-  <a href="https://verify.skilljar.com/c/x4puyp7qn2v7" title="Claude w/ Google Vertex AI"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a07.svg" width="290" alt="Claude w/ Google Vertex AI"/></a> <a href="https://verify.skilljar.com/c/os5baz5ovkn4" title="Intro to Model Context Protocol"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a08.svg" width="290" alt="Intro to Model Context Protocol"/></a> <a href="https://verify.skilljar.com/c/o74mdizi5b56" title="MCP: Advanced Topics"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a09.svg" width="290" alt="MCP: Advanced Topics"/></a>
-  <a href="https://verify.skilljar.com/c/ykakzz7ivwtr" title="AI Fluency: Framework"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a10.svg" width="290" alt="AI Fluency: Framework"/></a> <a href="https://verify.skilljar.com/c/hobrx8z5zn7k" title="AI Capabilities & Limitations"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a11.svg" width="290" alt="AI Capabilities & Limitations"/></a> <a href="https://verify.skilljar.com/c/j6hz6zcbgty3" title="AI Fluency for Educators"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a12.svg" width="290" alt="AI Fluency for Educators"/></a>
-  <a href="https://verify.skilljar.com/c/e7nhd57xtson" title="AI Fluency for Students"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a13.svg" width="290" alt="AI Fluency for Students"/></a> <a href="https://verify.skilljar.com/c/jpa3443fmrhn" title="Teaching AI Fluency"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a14.svg" width="290" alt="Teaching AI Fluency"/></a> <a href="https://verify.skilljar.com/c/toms4xkgh9a7" title="AI Fluency for Nonprofits"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a15.svg" width="290" alt="AI Fluency for Nonprofits"/></a>
-  <a href="https://verify.skilljar.com/c/6tvrhxistwf2" title="Intro to Agent Skills"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a16.svg" width="290" alt="Intro to Agent Skills"/></a> <a href="https://verify.skilljar.com/c/m4hf6uxodihg" title="Intro to Subagents"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a17.svg" width="290" alt="Intro to Subagents"/></a>
+  <a href="https://verify.skilljar.com/c/j7jfnvgs94aj" title="Claude 101" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a01.svg" width="290" alt="Claude 101"/></a> <a href="https://verify.skilljar.com/c/8byo99i49kbs" title="Claude Code 101" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a02.svg" width="290" alt="Claude Code 101"/></a> <a href="https://verify.skilljar.com/c/54mbn24tbipy" title="Claude Code in Action" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a03.svg" width="290" alt="Claude Code in Action"/></a>
+  <a href="https://verify.skilljar.com/c/p3586pqen568" title="Introduction to Claude Cowork" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a04.svg" width="290" alt="Introduction to Claude Cowork"/></a> <a href="https://verify.skilljar.com/c/yy6bgip3fjiw" title="Building with the Claude API" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a05.svg" width="290" alt="Building with the Claude API"/></a> <a href="https://verify.skilljar.com/c/q7x5bc6qo78f" title="Claude with Amazon Bedrock" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a06.svg" width="290" alt="Claude with Amazon Bedrock"/></a>
+  <a href="https://verify.skilljar.com/c/x4puyp7qn2v7" title="Claude w/ Google Vertex AI" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a07.svg" width="290" alt="Claude w/ Google Vertex AI"/></a> <a href="https://verify.skilljar.com/c/os5baz5ovkn4" title="Intro to Model Context Protocol" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a08.svg" width="290" alt="Intro to Model Context Protocol"/></a> <a href="https://verify.skilljar.com/c/o74mdizi5b56" title="MCP: Advanced Topics" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a09.svg" width="290" alt="MCP: Advanced Topics"/></a>
+  <a href="https://verify.skilljar.com/c/ykakzz7ivwtr" title="AI Fluency: Framework" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a10.svg" width="290" alt="AI Fluency: Framework"/></a> <a href="https://verify.skilljar.com/c/hobrx8z5zn7k" title="AI Capabilities & Limitations" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a11.svg" width="290" alt="AI Capabilities & Limitations"/></a> <a href="https://verify.skilljar.com/c/j6hz6zcbgty3" title="AI Fluency for Educators" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a12.svg" width="290" alt="AI Fluency for Educators"/></a>
+  <a href="https://verify.skilljar.com/c/e7nhd57xtson" title="AI Fluency for Students" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a13.svg" width="290" alt="AI Fluency for Students"/></a> <a href="https://verify.skilljar.com/c/jpa3443fmrhn" title="Teaching AI Fluency" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a14.svg" width="290" alt="Teaching AI Fluency"/></a> <a href="https://verify.skilljar.com/c/toms4xkgh9a7" title="AI Fluency for Nonprofits" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a15.svg" width="290" alt="AI Fluency for Nonprofits"/></a>
+  <a href="https://verify.skilljar.com/c/6tvrhxistwf2" title="Intro to Agent Skills" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a16.svg" width="290" alt="Intro to Agent Skills"/></a> <a href="https://verify.skilljar.com/c/m4hf6uxodihg" title="Intro to Subagents" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/a17.svg" width="290" alt="Intro to Subagents"/></a>
 </div>
 
 </details>
@@ -263,10 +263,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/7CHPEWSYGXD9" title="Programming with JavaScript"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o01.svg" width="290" alt="Programming with JavaScript"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/2GZUY2SUXAVB" title="Version Control"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o02.svg" width="290" alt="Version Control"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/8DVW7S7CAFMH" title="Intro to Front-End Development"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o03.svg" width="290" alt="Intro to Front-End Development"/></a>
-  <a href="https://coursera.org/share/e6eeaf6c1b164db0eea5ab20f68680b9" title="Modern JavaScript: ES6"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o04.svg" width="290" alt="Modern JavaScript: ES6"/></a> <a href="https://verify.letsupgrade.in/certificate/LUERJSJUN123217" title="React.js Essentials Bootcamp"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o05.svg" width="290" alt="React.js Essentials Bootcamp"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/PJJXDR63PLZZ" title="Regular Expressions in Python"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o06.svg" width="290" alt="Regular Expressions in Python"/></a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/TM6KQS57MASK" title="Get Started with Figma"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o07.svg" width="290" alt="Get Started with Figma"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/27YGB49FSF6Q" title="AI For Everyone"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o08.svg" width="290" alt="AI For Everyone"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/9KLJZPV5CWY6" title="AWS Fundamentals: Cloud-Native"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o09.svg" width="290" alt="AWS Fundamentals: Cloud-Native"/></a>
-  <a href="https://www.coursera.org/account/accomplishments/certificate/V6RS8KL44Q5B" title="Programming for Everybody"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o10.svg" width="290" alt="Programming for Everybody"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/7CHPEWSYGXD9" title="Programming with JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o01.svg" width="290" alt="Programming with JavaScript"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/2GZUY2SUXAVB" title="Version Control" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o02.svg" width="290" alt="Version Control"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/8DVW7S7CAFMH" title="Intro to Front-End Development" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o03.svg" width="290" alt="Intro to Front-End Development"/></a>
+  <a href="https://coursera.org/share/e6eeaf6c1b164db0eea5ab20f68680b9" title="Modern JavaScript: ES6" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o04.svg" width="290" alt="Modern JavaScript: ES6"/></a> <a href="https://verify.letsupgrade.in/certificate/LUERJSJUN123217" title="React.js Essentials Bootcamp" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o05.svg" width="290" alt="React.js Essentials Bootcamp"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/PJJXDR63PLZZ" title="Regular Expressions in Python" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o06.svg" width="290" alt="Regular Expressions in Python"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/TM6KQS57MASK" title="Get Started with Figma" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o07.svg" width="290" alt="Get Started with Figma"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/27YGB49FSF6Q" title="AI For Everyone" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o08.svg" width="290" alt="AI For Everyone"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/9KLJZPV5CWY6" title="AWS Fundamentals: Cloud-Native" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o09.svg" width="290" alt="AWS Fundamentals: Cloud-Native"/></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/V6RS8KL44Q5B" title="Programming for Everybody" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Ajay-k-jayan/Ajay-k-jayan/main/assets/certs/o10.svg" width="290" alt="Programming for Everybody"/></a>
 </div>
 
 </details>
@@ -294,9 +294,9 @@
 
 ### Let's build something great together
 
-<a href="https://www.linkedin.com/in/ajay-k-jayan/"><img src="https://img.shields.io/badge/Connect-0a0618?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/></a>
-<a href="mailto:ajaykj2000@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0a0618?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/></a>
-<a href="https://ajaykj.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a0618?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/ajay-k-jayan/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect-0a0618?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/></a>
+<a href="mailto:ajaykj2000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Say_Hello-0a0618?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/></a>
+<a href="https://ajaykj.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0a0618?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
