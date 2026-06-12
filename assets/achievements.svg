@@ -1,33 +1,105 @@
-<svg viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Achievements">
+<svg viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Awards">
   <defs>
-    <linearGradient id="acard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0c0a20"/><stop offset="1" stop-color="#08060f"/></linearGradient>
-    <filter id="ag" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="13"/></filter>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0b22"/><stop offset="1" stop-color="#070510"/></linearGradient>
+    <radialGradient id="goldM" cx="0.4" cy="0.3" r="0.7"><stop offset="0" stop-color="#fff4cc"/><stop offset="0.45" stop-color="#f5c451"/><stop offset="1" stop-color="#a16207"/></radialGradient>
+    <radialGradient id="tealM" cx="0.4" cy="0.3" r="0.7"><stop offset="0" stop-color="#ccfbf1"/><stop offset="0.45" stop-color="#2dd4bf"/><stop offset="1" stop-color="#0d7a6e"/></radialGradient>
+    <linearGradient id="goldBar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f5c451"/><stop offset="1" stop-color="#fde68a" stop-opacity="0.15"/></linearGradient>
+    <linearGradient id="tealBar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0.15"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.18"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="bloom" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="24"/></filter>
+    <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="ig" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="c1"><rect x="20" y="12" width="465" height="196" rx="18"/></clipPath>
+    <clipPath id="c2"><rect x="515" y="12" width="465" height="196" rx="18"/></clipPath>
   </defs>
-  <circle cx="302" cy="30" r="38" fill="#22d3ee" opacity="0.16" filter="url(#ag)"/>
-  <rect x="22" y="8" width="308" height="134" rx="14" fill="url(#acard)" stroke="#22d3ee" stroke-opacity="0.4"/>
-  <rect x="22" y="8" width="4" height="134" rx="2" fill="#22d3ee"/>
-  <circle cx="56" cy="44" r="16" fill="#22d3ee" opacity="0.16"/>
-  <path d="M56 36 l3 6 6 .8 -4.5 4.2 1 6 -5.5-3 -5.5 3 1-6 -4.5-4.2 6-.8z" fill="#22d3ee"/>
-  <text x="84" y="40" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="800" fill="#ffffff">Beinex Excelencia Award</text>
-  <text x="84" y="60" font-family="'Fira Code',monospace" font-size="12" fill="#22d3ee">2024</text>
-  <line x1="46" y1="82" x2="306" y2="82" stroke="#22d3ee" stroke-opacity="0.18"/>
-  <text x="46" y="106" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#e2e8f0">Outstanding performance &amp; contribution</text>
-  <circle cx="630" cy="30" r="38" fill="#a855f7" opacity="0.16" filter="url(#ag)"/>
-  <rect x="350" y="8" width="308" height="134" rx="14" fill="url(#acard)" stroke="#a855f7" stroke-opacity="0.4"/>
-  <rect x="350" y="8" width="4" height="134" rx="2" fill="#a855f7"/>
-  <circle cx="384" cy="44" r="16" fill="#a855f7" opacity="0.16"/>
-  <path d="M384 36 l3 6 6 .8 -4.5 4.2 1 6 -5.5-3 -5.5 3 1-6 -4.5-4.2 6-.8z" fill="#a855f7"/>
-  <text x="412" y="40" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="800" fill="#ffffff">Star Performer</text>
-  <text x="412" y="60" font-family="'Fira Code',monospace" font-size="12" fill="#a855f7">2022</text>
-  <line x1="374" y1="82" x2="634" y2="82" stroke="#a855f7" stroke-opacity="0.18"/>
-  <text x="374" y="106" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#e2e8f0">Recognition during internship</text>
-  <circle cx="958" cy="30" r="38" fill="#2dd4bf" opacity="0.16" filter="url(#ag)"/>
-  <rect x="678" y="8" width="308" height="134" rx="14" fill="url(#acard)" stroke="#2dd4bf" stroke-opacity="0.4"/>
-  <rect x="678" y="8" width="4" height="134" rx="2" fill="#2dd4bf"/>
-  <circle cx="712" cy="44" r="16" fill="#2dd4bf" opacity="0.16"/>
-  <path d="M706 44 l4 4 8-9" stroke="#2dd4bf" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="740" y="40" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="800" fill="#ffffff">27 Certifications</text>
-  <text x="740" y="60" font-family="'Fira Code',monospace" font-size="12" fill="#2dd4bf">Verified</text>
-  <line x1="702" y1="82" x2="962" y2="82" stroke="#2dd4bf" stroke-opacity="0.18"/>
-  <text x="702" y="106" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#e2e8f0">Anthropic · Meta · Google &amp; AWS</text>
+
+  <!-- ============ CARD 1 — Excelencia (gold) ============ -->
+  <g clip-path="url(#c1)">
+    <rect x="20" y="12" width="465" height="196" rx="18" fill="url(#card)"/>
+    <circle cx="118" cy="60" r="95" fill="#f5c451" opacity="0.18" filter="url(#bloom)"><animate attributeName="opacity" values="0.12;0.26;0.12" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="210" r="80" fill="#f59e0b" opacity="0.10" filter="url(#bloom)"/>
+    <!-- floating particles -->
+    <circle cx="300" cy="40" r="2" fill="#fde68a"><animate attributeName="cy" values="40;28;40" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="380" cy="150" r="1.6" fill="#fde68a"><animate attributeName="cy" values="150;138;150" dur="4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;1;0.3" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="175" r="1.8" fill="#f5c451"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+    <!-- shimmer sweep -->
+    <rect x="-200" y="12" width="160" height="196" fill="url(#shine)" transform="skewX(-18)"><animate attributeName="x" values="-200;620" dur="4.5s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="20" y="12" width="465" height="196" rx="18" fill="none" stroke="#f5c451" stroke-opacity="0.45"/>
+  <rect x="20" y="12" width="465" height="4" rx="2" fill="url(#goldBar)"/>
+
+  <!-- medallion: rays + rings + trophy + shine -->
+  <g transform="translate(96 108)">
+    <g opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+      <g stroke="#f5c451" stroke-width="2" stroke-linecap="round" opacity="0.4">
+        <line x1="0" y1="-52" x2="0" y2="-44"/><line x1="0" y1="52" x2="0" y2="44"/>
+        <line x1="-52" y1="0" x2="-44" y2="0"/><line x1="52" y1="0" x2="44" y2="0"/>
+        <line x1="-37" y1="-37" x2="-31" y2="-31"/><line x1="37" y1="37" x2="31" y2="31"/>
+        <line x1="-37" y1="37" x2="-31" y2="31"/><line x1="37" y1="-37" x2="31" y2="-31"/>
+      </g>
+    </g>
+    <circle r="42" fill="none" stroke="#f5c451" stroke-opacity="0.35" stroke-width="1" stroke-dasharray="2,6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="40" fill="#0a0814" stroke="#f5c451" stroke-opacity="0.55"/>
+    <circle r="40" fill="#f5c451" opacity="0.3" filter="url(#soft)"><animate attributeName="opacity" values="0.15;0.4;0.15" dur="3s" repeatCount="indefinite"/></circle>
+    <circle r="33" fill="url(#goldM)" filter="url(#ig)"/>
+    <g fill="#5a3e07">
+      <path d="M-9 -14 h18 v6 a9 9 0 0 1 -18 0 z"/>
+      <path d="M-9 -12 h-4 a4 4 0 0 0 0 8 h4 v-3 h-4 a1 1 0 0 1 0 -2 h4 z"/>
+      <path d="M9 -12 h4 a4 4 0 0 1 0 8 h-4 v-3 h4 a1 1 0 0 0 0 -2 h-4 z"/>
+      <rect x="-2" y="-2" width="4" height="7"/><path d="M-7 5 h14 v3 h-14 z"/><path d="M-9 8 h18 v3 h-18 z"/>
+    </g>
+    <ellipse cx="-9" cy="-9" rx="7" ry="11" fill="#ffffff" opacity="0.35" transform="rotate(-25 -9 -9)"/>
+  </g>
+
+  <text x="156" y="64" font-family="'Fira Code',monospace" font-size="11" font-weight="700" letter-spacing="3" fill="#f5c451">&#9733; AWARD</text>
+  <text x="156" y="100" font-family="'Segoe UI',Roboto,sans-serif" font-size="25" font-weight="800" fill="#ffffff">Beinex Excelencia</text>
+  <text x="156" y="126" font-family="'Segoe UI',Roboto,sans-serif" font-size="18" font-weight="700" fill="#f5c451">Award</text>
+  <rect x="156" y="140" width="52" height="22" rx="11" fill="#f5c451" opacity="0.18"/>
+  <text x="182" y="155" text-anchor="middle" font-family="'Fira Code',monospace" font-size="12" font-weight="700" fill="#fde68a">2024</text>
+  <text x="220" y="155" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#8b8ba7">Beinex Consultancy</text>
+  <text x="156" y="186" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#cbd5e1">For outstanding performance &amp; contribution.</text>
+
+  <!-- ============ CARD 2 — Star Performer (teal) ============ -->
+  <g clip-path="url(#c2)">
+    <rect x="515" y="12" width="465" height="196" rx="18" fill="url(#card)"/>
+    <circle cx="613" cy="60" r="95" fill="#2dd4bf" opacity="0.18" filter="url(#bloom)"><animate attributeName="opacity" values="0.12;0.26;0.12" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="965" cy="210" r="80" fill="#22d3ee" opacity="0.10" filter="url(#bloom)"/>
+    <circle cx="795" cy="40" r="2" fill="#a7f3eb"><animate attributeName="cy" values="40;28;40" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;1;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="875" cy="150" r="1.6" fill="#a7f3eb"><animate attributeName="cy" values="150;138;150" dur="4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.3;1;0.3" dur="4.4s" repeatCount="indefinite"/></circle>
+    <circle cx="745" cy="175" r="1.8" fill="#2dd4bf"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+    <rect x="295" y="12" width="160" height="196" fill="url(#shine)" transform="skewX(-18)"><animate attributeName="x" values="295;1115" dur="4.5s" begin="1s" repeatCount="indefinite"/></rect>
+  </g>
+  <rect x="515" y="12" width="465" height="196" rx="18" fill="none" stroke="#2dd4bf" stroke-opacity="0.45"/>
+  <rect x="515" y="12" width="465" height="4" rx="2" fill="url(#tealBar)"/>
+
+  <g transform="translate(591 108)">
+    <g opacity="0.5"><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="30s" repeatCount="indefinite"/>
+      <g stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" opacity="0.4">
+        <line x1="0" y1="-52" x2="0" y2="-44"/><line x1="0" y1="52" x2="0" y2="44"/>
+        <line x1="-52" y1="0" x2="-44" y2="0"/><line x1="52" y1="0" x2="44" y2="0"/>
+        <line x1="-37" y1="-37" x2="-31" y2="-31"/><line x1="37" y1="37" x2="31" y2="31"/>
+        <line x1="-37" y1="37" x2="-31" y2="31"/><line x1="37" y1="-37" x2="31" y2="-31"/>
+      </g>
+    </g>
+    <circle r="42" fill="none" stroke="#2dd4bf" stroke-opacity="0.35" stroke-width="1" stroke-dasharray="2,6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="40" fill="#0a0814" stroke="#2dd4bf" stroke-opacity="0.55"/>
+    <circle r="40" fill="#2dd4bf" opacity="0.3" filter="url(#soft)"><animate attributeName="opacity" values="0.15;0.4;0.15" dur="3s" repeatCount="indefinite"/></circle>
+    <circle r="33" fill="url(#tealM)" filter="url(#ig)"/>
+    <path d="M0 -18 l5.3 10.8 11.9 1.7 -8.6 8.4 2 11.9 -10.6-5.6 -10.6 5.6 2-11.9 -8.6-8.4 11.9-1.7 z" fill="#08312c"/>
+    <ellipse cx="-9" cy="-9" rx="7" ry="11" fill="#ffffff" opacity="0.35" transform="rotate(-25 -9 -9)"/>
+  </g>
+
+  <text x="651" y="64" font-family="'Fira Code',monospace" font-size="11" font-weight="700" letter-spacing="3" fill="#2dd4bf">&#9733; AWARD</text>
+  <text x="651" y="100" font-family="'Segoe UI',Roboto,sans-serif" font-size="25" font-weight="800" fill="#ffffff">Star Performer</text>
+  <text x="651" y="126" font-family="'Segoe UI',Roboto,sans-serif" font-size="18" font-weight="700" fill="#2dd4bf">Recognition</text>
+  <rect x="651" y="140" width="52" height="22" rx="11" fill="#2dd4bf" opacity="0.18"/>
+  <text x="677" y="155" text-anchor="middle" font-family="'Fira Code',monospace" font-size="12" font-weight="700" fill="#5eead4">2022</text>
+  <text x="715" y="155" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#8b8ba7">Beinex Internship</text>
+  <text x="651" y="186" font-family="'Segoe UI',sans-serif" font-size="12.5" fill="#cbd5e1">Top performer recognition during internship.</text>
 </svg>
